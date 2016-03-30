@@ -1,0 +1,32 @@
+<?php
+
+$config['permconfig'] = array(
+    'master_models' => array(// những models là dữ liệu master không cần lọc theo user
+        'Category',
+        'ActivityCategory',
+        'ActivityCollection',
+        'EventCategory',
+        'EventCollection',
+        'FileManaged',
+        'GuideCategory',
+        'GuideCollection',
+        'HospitalCategory',
+        'HospitalCollection',
+        'HotelCategory',
+        'HotelCollection',
+        'NewCategory',
+        'NewCollection',
+        'ObjectType',
+        'PlaceCategory',
+        'PlaceCollection',
+        'Region',
+        'RestaurantCategory',
+        'RestaurantCollection',
+        'TaxiCategory',
+        'TaxiCollection',
+        'TipCategory',
+        'TipCollection',
+        'TourCategory',
+        'TourCollection',
+    ),
+);

@@ -1,0 +1,4756 @@
+# App - BEGIN
+msgid "home_title"
+msgstr "Trang chủ"
+
+msgid "status_rejected"
+msgstr "Không được phê duyệt"
+
+msgid "status_hidden"
+msgstr "Không hiện thị tạm thời"
+
+msgid "status_wait_review"
+msgstr "Đang chờ xét duyệt"
+
+msgid "status_approved"
+msgstr "Công khai"
+
+msgid "status_schedule"
+msgstr "Hẹn giờ"
+
+msgid "status_active"
+msgstr "Kích hoạt"
+
+msgid "status_inactive"
+msgstr "Tạm ngừng kích hoạt"
+
+msgid "no_result"
+msgstr "Không có dữ liệu"
+
+msgid "no"
+msgstr "STT"
+
+msgid "operation"
+msgstr "Thao tác"
+
+msgid "confirm_before_delete"
+msgstr "Bạn có chắc chắn muốn xóa không?"
+
+msgid "unknown"
+msgstr "Unknown"
+
+msgid "from_date"
+msgstr "Từ ngày"
+
+msgid "to_date"
+msgstr "Đến ngày"
+
+msgid "created"
+msgstr "Ngày tạo"
+
+msgid "creator"
+msgstr "Người tạo"
+
+msgid "unknow creator"
+msgstr "Vô danh"
+
+msgid "modified"
+msgstr "Ngày chỉnh sửa"
+
+msgid "add_action_title"
+msgstr "Thêm mới"
+
+msgid "edit_action_title"
+msgstr "Chỉnh sửa"
+
+msgid "comment_action_title"
+msgstr "Bình luận"
+
+msgid "index_action_title"
+msgstr "Danh sách"
+
+msgid "find_action_title"
+msgstr "Tra cứu"
+
+msgid "reset_password_action_title"
+msgstr "Đặt lại mật khẩu"
+
+msgid "invalid_data"
+msgstr "Lỗi, dữ liệu không hợp lệ"
+
+msgid "add_files"
+msgstr "Thêm files"
+
+msgid "start_upload"
+msgstr "Tải lên"
+
+msgid "delete"
+msgstr "Xóa"
+
+msgid "cancel"
+msgstr "Hủy"
+
+msgid "start"
+msgstr "Tải lên"
+
+msgid "error"
+msgstr "Lỗi"
+
+msgid "Input country first"
+msgstr "Chú ý nhập quốc gia trước!"
+
+msgid "Logo file"
+msgstr "Hình tương trưng"
+
+msgid "Thumbnails file"
+msgstr "Hình giới thiệu"
+
+msgid "object_icon"
+msgstr "Ảnh Icon"
+
+msgid "log_out"
+msgstr "Thoát"
+
+msgid "clear_btn"
+msgstr "Refresh"
+
+msgid "category"
+msgstr "Danh mục"
+
+msgid "collection"
+msgstr "Thể loại"
+
+msgid "date_from"
+msgstr "Từ"
+
+msgid "date_to"
+msgstr "Tới"
+
+msgid "password_placeholder"
+msgstr "Mật Khẩu"
+
+msgid "username_placeholder"
+msgstr "Tài khoản"
+
+msgid "log_in"
+msgstr "Đăng nhập"
+
+msgid "Banner file"
+msgstr "Ảnh banner"
+
+msgid "Logo file"
+msgstr "Ảnh đại diện"
+
+msgid "Thumbnails file"
+msgstr "Thư viện ảnh"
+
+msgid "Video file"
+msgstr "Video giới thiệu"
+
+msgid "Icon file"
+msgstr "Ảnh icon"
+
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "region"
+msgstr "Tỉnh/thành phố"
+
+msgid "country"
+msgstr "Quốc gia"
+
+msgid "white_icon_file"
+msgstr "Ảnh icon màu trắng"
+
+msgid "black_icon_file"
+msgstr "Ảnh icon màu đen"
+
+msgid "close_btn"
+msgstr "Đóng"
+
+
+msgid "visitor_notification_group"
+msgstr "Nhóm khách hàng"
+
+# App - END
+
+# Form buttons - BEGIN
+msgid "save_btn"
+msgstr "Lưu"
+
+msgid "cancel_btn"
+msgstr "Hủy bỏ"
+
+msgid "edit_btn"
+msgstr "Chỉnh sửa"
+
+msgid "delete_btn"
+msgstr "Xóa"
+
+msgid "search_btn"
+msgstr "Tìm kiếm"
+
+msgid "register_btn"
+msgstr "Đăng ký"
+
+msgid "import_btn"
+msgstr "Import"
+
+msgid "rating_score"
+msgstr "Điểm đánh giá"
+
+msgid "rating_count"
+msgstr "Lượt đánh giá"
+
+msgid "expand_all_btn"
+msgstr "Mở rộng"
+
+msgid "collapse_all_btn"
+msgstr "Thu gọn"
+# Form buttons - END
+
+# Form messages - BEGIN
+msgid "save_successful_message"
+msgstr "Dữ liệu được lưu thành công"
+
+msgid "reset_password_successful_message"
+msgstr "Thực hiện đặt lại mật khẩu thành công"
+
+msgid "save_error_message"
+msgstr "Lỗi, dữ liệu không được lưu thành công"
+
+msgid "reset_password_error_message"
+msgstr "Lỗi, thực hiện đặt lại mật khẩu không thành công"
+
+msgid "delete_successful_message"
+msgstr "Dữ liệu đã được xóa thành công"
+
+msgid "delete_error_message"
+msgstr "Lỗi, dữ liệu không được xóa thành công"
+
+msgid "delete_file_error_message"
+msgstr "Lỗi, không thực hiện xóa file thành công"
+
+msgid "nothing_changes_message"
+msgstr "Dữ liệu không có gì thay đổi"
+# Form messages - END
+
+# /Countries/* - BEGIN
+msgid "country_title"
+msgstr "Danh sách quốc gia"
+# /Countries/* - END
+
+# Country - BEGIN
+msgid "country_name_duplicate"
+msgstr "Tên quốc gia đã được sử dụng"
+
+msgid "country_code_duplicate"
+msgstr "Mã quốc gia đã được sử dụng"
+
+msgid "country_name"
+msgstr "Tên quốc gia"
+
+msgid "country_order"
+msgstr "Thứ tự"
+
+msgid "country_code"
+msgstr "Mã quốc gia"
+
+msgid "country_dial_code"
+msgstr "Mã điện thoại"
+
+msgid "country_latitude"
+msgstr "Vĩ độ"
+
+msgid "country_longitude"
+msgstr "Kinh độ"
+
+msgid "country_description"
+msgstr "Mô tả"
+
+msgid "country_status"
+msgstr "Trạng thái"
+
+msgid "country_user"
+msgstr "Người tạo"
+
+msgid "country_lang_code"
+msgstr "Mã ngôn ngữ"
+# Country - END
+
+# /Locations/* - BEGIN
+msgid "location_title"
+msgstr "Danh sách vị trí"
+
+msgid "location_add_title"
+msgstr "Thêm mới vị trí"
+# /Locations/* - END
+
+# Location - BEGIN
+msgid "location_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "location_country_code"
+msgstr "Mã quốc gia"
+
+msgid "location_name"
+msgstr "Tên vị trí"
+
+msgid "location_order"
+msgstr "Thứ tự"
+
+msgid "location_code"
+msgstr "Mã vị trí"
+
+msgid "location_address"
+msgstr "Địa chỉ"
+
+msgid "location_website"
+msgstr "Website"
+
+msgid "location_latitude"
+msgstr "Vĩ độ"
+
+msgid "location_longitude"
+msgstr "Kinh độ"
+
+msgid "location_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "location_description"
+msgstr "Mô tả chi tiết"
+
+msgid "location_tags"
+msgstr "Nhãn dán"
+
+msgid "location_status"
+msgstr "Trạng thái"
+
+msgid "location_lang_code"
+msgstr "Ngôn ngữ"
+
+msgid "location_content_provider_code"
+msgstr "Nhà cung cấp nội dung"
+
+msgid "location_user"
+msgstr "Người nhập"
+# Location - END
+
+# /Regions/* - BEGIN
+msgid "region_title"
+msgstr "Danh sách tỉnh/thành phố"
+# /Regions/* - END
+
+# Region - BEGIN
+msgid "region_name"
+msgstr "Tên tỉnh/thành phố"
+
+msgid "region_country_code"
+msgstr "Quốc gia"
+
+msgid "region_address"
+msgstr "Địa chỉ"
+
+msgid "region_topics"
+msgstr "Chủ đề"
+
+msgid "region_categories"
+msgstr "Danh mục"
+
+msgid "region_area_code"
+msgstr "Mã điện thoại"
+
+msgid "region_zip_code"
+msgstr "Mã bưu chính"
+
+msgid "region_latitude"
+msgstr "Vĩ độ"
+
+msgid "region_longitude"
+msgstr "Kinh độ"
+
+msgid "region_description"
+msgstr "Mô tả"
+
+msgid "region_support"
+msgstr "Thông tin hỗ trợ"
+
+msgid "region_guide"
+msgstr "Thông tin hướng dẫn"
+
+msgid "region_status"
+msgstr "Trạng thái"
+
+msgid "region_user"
+msgstr "Người tạo"
+
+msgid "region_order"
+msgstr "Thứ tự"
+
+msgid "region_lang_code"
+msgstr "Mã ngôn ngữ"
+# Region - END
+
+# /News/* - BEGIN
+msgid "new_title"
+msgstr "Tin tức"
+# /News/* - END
+
+# New - BEGIN
+msgid "new_name"
+msgstr "Tiêu đề tin tức"
+
+msgid "new_order"
+msgstr "Thứ tự"
+
+msgid "new_country"
+msgstr "Quốc gia"
+
+msgid "new_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "new_location"
+msgstr "Thông tin tin tức"
+
+msgid "new_source"
+msgstr "Nguồn"
+
+msgid "new_user"
+msgstr "Người tạo"
+
+msgid "new_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "new_files"
+msgstr "File tin tức"
+
+msgid "new_status"
+msgstr "Trạng thái"
+
+msgid "new_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "new_description"
+msgstr "Mô tả chi tiết"
+
+msgid "new_news_categories"
+msgstr "Danh mục"
+
+msgid "new_news_collections"
+msgstr "Thể loại"
+
+msgid "new_modified"
+msgstr "Cập nhật"
+
+# New - END
+
+
+# /Guides/* - BEGIN
+msgid "player_nav_title"
+msgstr "Quản lý thuê bao"
+
+msgid "guide_title"
+msgstr "Danh sách cẩm nang du lịch"
+
+msgid "guide_nav_title"
+msgstr "Cẩm nang du lịch"
+
+msgid "rating_nav_title"
+msgstr "Raiting"
+
+msgid "feedback_nav_title"
+msgstr "Đánh giá"
+# /Guides/* - END
+
+#--- nav link menus ---#
+msgid "nav_links"
+msgstr "Liên kết"
+
+msgid "art_title"
+msgstr "Nghệ thuật dân gian"
+
+msgid "clip_music_title"
+msgstr "Clip âm nhạc dân gian"
+
+msgid "traffic_idea_title"
+msgstr "Ý tưởng giao thông"
+
+msgid "traffic_signboards_title"
+msgstr "Biển báo giao thông"
+
+msgid "traffic_libs_title"
+msgstr "Thử viện giao thông"
+
+msgid "env_title"
+msgstr "Môi trường"
+
+msgid "env_feedback_title"
+msgstr "Phản ánh môi trường"
+
+msgid "tours_feedback_title"
+msgstr "Phản ánh du lịch"
+
+msgid "idea_title"
+msgstr "Đóng góp ý tưởng"
+
+msgid "shop_title"
+msgstr "Cửa hàng"
+
+msgid "coffeeshops_bars_clubs_title"
+msgstr "Café - Bar - Club"
+
+msgid "spa_nav_title"
+msgstr "Spa"
+
+msgid "seethrillplay_title"
+msgstr "Địa điểm vui chơi - giải trí"
+
+msgid "nav_booking"
+msgstr "Order"
+
+msgid "order_tours_title"
+msgstr "Đặt tour du lịch"
+
+msgid "order_tour_reports_title"
+msgstr "Đặt vé máy bay"
+
+msgid "order_restaurants_title"
+msgstr "Đặt nhà hàng"
+
+msgid "order_hotels_title"
+msgstr "Đặt khách sạn"
+
+# Guide - BEGIN
+msgid "guide_name"
+msgstr "Tiêu đề cẩm nang"
+
+msgid "guide_country"
+msgstr "Quốc gia"
+
+msgid "guide_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "guide_location"
+msgstr "Thông tin cẩm nang"
+
+msgid "guide_source"
+msgstr "Nguồn"
+
+msgid "guide_user"
+msgstr "Người tạo"
+
+msgid "guide_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "guide_files"
+msgstr "File tin tức"
+
+msgid "guide_status"
+msgstr "Trạng thái"
+
+msgid "guide_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "guide_description"
+msgstr "Mô tả chi tiết"
+
+msgid "guide_categories"
+msgstr "Danh mục"
+
+msgid "guide_collections"
+msgstr "Thể loại"
+
+msgid "guide_modified"
+msgstr "Cập nhật"
+
+# Guide - END
+
+# /Emergencies/* - BEGIN
+msgid "emergency_title"
+msgstr "Danh sách số điện thoại khẩn cấp"
+
+msgid "emergency_nav_title"
+msgstr "Số điện thoại khẩn cấp"
+# /Emergencies/* - END
+
+# Emergency - BEGIN
+msgid "emergency_name"
+msgstr "Tiêu đề số điện thoại khẩn cấp"
+
+msgid "emergency_location"
+msgstr "Thông tin số điện thoại khẩn cấp"
+
+msgid "emergency_user"
+msgstr "Người tạo"
+
+msgid "emergency_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "emergency_files"
+msgstr "File tin tức"
+
+msgid "emergency_status"
+msgstr "Trạng thái"
+
+msgid "emergency_description"
+msgstr "Mô tả chi tiết"
+
+msgid "emergency_tel"
+msgstr "Số điện thoại"
+
+msgid "emergency_modified"
+msgstr "Cập nhật"
+
+# Emergency - END
+
+# /Faqs/* - BEGIN
+msgid "faq_title"
+msgstr "Danh sách hỏi đáp"
+
+msgid "faq_nav_title"
+msgstr "Hỏi đáp"
+# /Faqs/* - END
+
+# Faq - BEGIN
+msgid "faq_name"
+msgstr "Tiêu đề hỏi đáp"
+
+msgid "faq_location"
+msgstr "Thông tin hỏi đáp"
+
+msgid "faq_order"
+msgstr "Thứ tự"
+
+msgid "faq_user"
+msgstr "Người tạo"
+
+msgid "faq_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "faq_files"
+msgstr "File tin tức"
+
+msgid "faq_status"
+msgstr "Trạng thái"
+
+msgid "faq_answer"
+msgstr "Trả lời"
+
+msgid "faq_question"
+msgstr "Câu hỏi"
+
+msgid "faq_modified"
+msgstr "Cập nhật"
+
+# Faq - END
+
+# /Announces/* - BEGIN
+msgid "announce_title"
+msgstr "Danh sách thông báo"
+# /Announces/* - END
+
+# Announce - BEGIN
+msgid "announce_name"
+msgstr "Tiêu đề thông báo"
+
+msgid "announce_location"
+msgstr "Thông tin thông báo"
+
+msgid "announce_user"
+msgstr "Người tạo"
+
+msgid "announce_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "announce_files"
+msgstr "File tin tức"
+
+msgid "announce_status"
+msgstr "Trạng thái"
+
+msgid "announce_description"
+msgstr "Mô tả"
+
+msgid "announce_modified"
+msgstr "Cập nhật"
+
+# Announce - END
+
+# /SplashScreens/* - BEGIN
+msgid "splash_screen_title"
+msgstr "Danh sách ảnh cho splash screen"
+
+msgid "splash_screen_nav_title"
+msgstr "Splash screen"
+# /SplashScreens/* - END
+
+# SplashScreen - BEGIN
+msgid "splash_screen_name"
+msgstr "Tiêu đề"
+
+msgid "splash_screen_order"
+msgstr "Thứ tự"
+
+msgid "splash_screen_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "splash_screen_location"
+msgstr "Thông tin"
+
+msgid "splash_screen_user"
+msgstr "Người tạo"
+
+msgid "splash_screen_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "splash_screen_files"
+msgstr "File ảnh"
+
+msgid "splash_screen_status"
+msgstr "Trạng thái"
+
+msgid "splash_screen_description"
+msgstr "Mô tả chi tiết"
+
+msgid "splash_screen_modified"
+msgstr "Cập nhật"
+
+# SplashScreen - END
+
+# /Tips/* - BEGIN
+msgid "tip_title"
+msgstr "Danh sách mẹo du lịch"
+
+msgid "tip_nav_title"
+msgstr "Mẹo du lịch"
+# /Tips/* - END
+
+# Tip - BEGIN
+msgid "tip_name"
+msgstr "Tiêu đề mẹo"
+
+msgid "tip_country"
+msgstr "Quốc gia"
+
+msgid "tip_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "tip_location"
+msgstr "Thông tin mẹo"
+
+msgid "tip_source"
+msgstr "Nguồn"
+
+msgid "tip_user"
+msgstr "Người tạo"
+
+msgid "tip_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "tip_files"
+msgstr "File tin tức"
+
+msgid "tip_status"
+msgstr "Trạng thái"
+
+msgid "tip_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "tip_description"
+msgstr "Mô tả chi tiết"
+
+msgid "tip_categories"
+msgstr "Danh mục"
+
+msgid "tip_collections"
+msgstr "Thể loại"
+
+msgid "tip_modified"
+msgstr "Cập nhật"
+
+# Tip - END
+
+# /Events/* - BEGIN
+msgid "event_title"
+msgstr "Danh sách hoạt động sự kiện"
+
+msgid "event_nav_title"
+msgstr "Hoạt động - Sự kiện"
+
+msgid "nav_location"
+msgstr "Địa điểm"
+# /Events/* - END
+
+# Event - BEGIN
+msgid "event_name"
+msgstr "Tên hoạt động sự kiện"
+
+msgid "event_date"
+msgstr "Thời gian diễn ra"
+
+msgid "event_rating"
+msgstr "Đánh giá"
+
+msgid "event_order"
+msgstr "Thứ tự"
+
+msgid "event_country"
+msgstr "Quốc gia"
+
+msgid "event_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "event_location"
+msgstr "Thông tin sự kiện"
+
+msgid "event_source"
+msgstr "Nguồn"
+
+msgid "event_user"
+msgstr "Người tạo"
+
+msgid "event_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "event_files"
+msgstr "File tin tức"
+
+msgid "event_status"
+msgstr "Trạng thái"
+
+msgid "status"
+msgstr "Trạng thái"
+
+msgid "event_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "event_description"
+msgstr "Mô tả chi tiết"
+
+msgid "event_categories"
+msgstr "Danh mục"
+
+msgid "event_collections"
+msgstr "Thể loại"
+
+msgid "event_modified"
+msgstr "Cập nhật"
+
+msgid "event_start_date"
+msgstr "Ngày bắt đầu"
+
+msgid "event_end_date"
+msgstr "Ngày kết thúc"
+# Event - END
+
+# notification - BEGIN(HoangNN)
+
+# /Events/* - BEGIN
+msgid "notification_title"
+msgstr "Danh sách thông báo"
+
+msgid "notification_nav_title"
+msgstr "Thông báo"
+# /Events/* - END
+
+msgid "notification_name"
+msgstr "Tiêu đề"
+
+msgid "notification_date"
+msgstr "Thời gian diễn ra"
+
+msgid "notification_rating"
+msgstr "Đánh giá"
+
+msgid "notification_order"
+msgstr "Thứ tự"
+
+msgid "notification_country"
+msgstr "Quốc gia"
+
+msgid "notification_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "notification_location"
+msgstr "Thông tin sự kiện"
+
+msgid "notification_source"
+msgstr "Nguồn"
+
+msgid "notification_user"
+msgstr "Người tạo"
+
+msgid "notification_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "notification_files"
+msgstr "File tin tức"
+
+msgid "notification_status"
+msgstr "Trạng thái"
+
+msgid "notification_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "notification_description"
+msgstr "Mô tả chi tiết"
+
+msgid "notification_categories"
+msgstr "Danh mục"
+
+msgid "notification_collections"
+msgstr "Thể loại"
+
+msgid "notification_modified"
+msgstr "Cập nhật"
+
+msgid "notification_start_date"
+msgstr "Ngày bắt đầu"
+
+msgid "notification_end_date"
+msgstr "Ngày kết thúc"
+# notification - END
+
+# /PlatformProviders/* - BEGIN
+msgid "platform_provider_title"
+msgstr "Danh sách nhà cung cấp nền tảng"
+# /PlatformProviders/* - END
+
+# PlatformProvider - BEGIN
+msgid "platform_provider_name"
+msgstr "Tên nhà cung cấp nền tảng"
+
+msgid "platform_provider_code"
+msgstr "Mã code"
+
+msgid "platform_provider_email"
+msgstr "Email"
+
+msgid "platform_provider_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "platform_provider_website"
+msgstr "Website"
+
+msgid "platform_provider_order"
+msgstr "Số thứ tự"
+
+msgid "platform_provider_modified"
+msgstr "Cập nhật"
+
+msgid "platform_provider_status"
+msgstr "Trạng thái"
+
+msgid "platform_provider_description"
+msgstr "Mô tả"
+# PlatformProvider - END
+
+# /ContentProviders/* - BEGIN
+msgid "content_provider_title"
+msgstr "Danh sách nhà cung cấp nội dung"
+
+msgid "content_provider_nav_title"
+msgstr "Nhà cung cấp nội dung"
+# /ContentProviders/* - END
+
+# ContentProvider - BEGIN
+msgid "content_provider_name"
+msgstr "Tên nhà cung cấp nội dung"
+
+msgid "content_provider_code"
+msgstr "Mã code"
+
+msgid "content_provider_email"
+msgstr "Email"
+
+msgid "content_provider_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "content_provider_website"
+msgstr "Website"
+
+msgid "content_provider_order"
+msgstr "Số thứ tự"
+
+msgid "content_provider_modified"
+msgstr "Cập nhật"
+
+msgid "content_provider_status"
+msgstr "Trạng thái"
+
+msgid "content_provider_description"
+msgstr "Mô tả"
+
+msgid "content_provider_service_provider_code"
+msgstr "Nhà cung cấp dịch vụ"
+# ContentProvider - END
+
+# /ServiceProviders/* - BEGIN
+msgid "service_provider_title"
+msgstr "Danh sách nhà cung cấp dịch vụ"
+
+msgid "service_provider_nav_title"
+msgstr "Nhà cung cấp dịch vụ"
+
+# /ServiceProviders/* - END
+
+# ServiceProvider - BEGIN
+msgid "service_provider_name"
+msgstr "Tên nhà cung cấp dịch vụ"
+
+msgid "service_provider_code"
+msgstr "Mã code"
+
+msgid "service_provider_email"
+msgstr "Email"
+
+msgid "service_provider_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "service_provider_website"
+msgstr "Website"
+
+msgid "service_provider_order"
+msgstr "Số thứ tự"
+
+msgid "service_provider_modified"
+msgstr "Cập nhật"
+
+msgid "service_provider_status"
+msgstr "Trạng thái"
+
+msgid "service_provider_description"
+msgstr "Mô tả"
+
+msgid "service_provider_cms_domain"
+msgstr "CMS Domain"
+
+msgid "service_provider_website"
+msgstr "Website"
+
+msgid "service_provider_sologan"
+msgstr "Sologan"
+
+msgid "service_provider_email"
+msgstr "Email"
+
+msgid "service_provider_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "service_provider_private_key"
+msgstr "Mã bí mật"
+
+msgid "service_provider_server_ip"
+msgstr "Server IP"
+
+msgid "service_provider_platform_provider_code"
+msgstr "Nhà cung cấp nền tảng"
+
+# ServiceProvider - END
+
+
+# /Distributors/* - BEGIN
+msgid "distributor_title"
+msgstr "Danh sách nhà phân phối"
+
+msgid "distributor_nav_title"
+msgstr "Nhà phân phối"
+# /Distributors/* - END
+
+# Distributor - BEGIN
+msgid "distributor_name"
+msgstr "Tên nhà phân phối"
+
+msgid "distributor_code"
+msgstr "Mã code"
+
+msgid "agency_code"
+msgstr "Mã công ty"
+
+msgid "distributor_email"
+msgstr "Email"
+
+msgid "distributor_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "distributor_website"
+msgstr "Website"
+
+msgid "distributor_order"
+msgstr "Số thứ tự"
+
+msgid "distributor_modified"
+msgstr "Cập nhật"
+
+msgid "distributor_status"
+msgstr "Trạng thái"
+
+msgid "distributor_description"
+msgstr "Mô tả"
+
+msgid "distributor_wap_domain"
+msgstr "WAP Domain"
+
+msgid "distributor_website"
+msgstr "Website"
+
+msgid "distributor_sologan"
+msgstr "Sologan"
+
+msgid "distributor_email"
+msgstr "Email"
+
+msgid "distributor_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "distributor_private_key"
+msgstr "Mã bí mật"
+
+msgid "distributor_server_ip"
+msgstr "Server IP"
+
+msgid "distributor_service_provider_code"
+msgstr "Nhà cung cấp dịch vụ"
+
+# Distributor - END
+
+
+# /DistributionChannels/* - BEGIN
+msgid "distribution_channel_title"
+msgstr "Danh sách kênh phân phối"
+
+msgid "distribution_channel_nav_title"
+msgstr "Kênh phân phối"
+# /DistributionChannels/* - END
+
+# DistributionChannel - BEGIN
+msgid "distribution_channel_name"
+msgstr "Tên kênh phân phối"
+
+msgid "distribution_channel_code"
+msgstr "Mã code"
+
+msgid "distribution_channel_email"
+msgstr "Email"
+
+msgid "distribution_channel_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "distribution_channel_website"
+msgstr "Website"
+
+msgid "distribution_channel_order"
+msgstr "Số thứ tự"
+
+msgid "distribution_channel_modified"
+msgstr "Cập nhật"
+
+msgid "distribution_channel_status"
+msgstr "Trạng thái"
+
+msgid "distribution_channel_description"
+msgstr "Mô tả"
+
+msgid "distribution_channel_wap_domain"
+msgstr "WAP Domain"
+
+msgid "distribution_channel_website"
+msgstr "Website"
+
+msgid "distribution_channel_sologan"
+msgstr "Sologan"
+
+msgid "distribution_channel_email"
+msgstr "Email"
+
+msgid "distribution_channel_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "distribution_channel_private_key"
+msgstr "Mã bí mật"
+
+msgid "distribution_channel_server_ip"
+msgstr "Server IP"
+
+msgid "distribution_channel_distributor_code"
+msgstr "Nhà phân phối"
+
+msgid "distribution_channel_sharing"
+msgstr "Phần trăm được chia sẻ"
+
+# DistributionChannel - END
+
+# /Hotels/* - BEGIN
+msgid "hotel_title"
+msgstr "Danh sách khách sạn"
+# /Hotels/* - END
+
+# Hotel - BEGIN
+msgid "hotel_rating"
+msgstr "Đánh giá"
+
+msgid "hotel_tags"
+msgstr "Thẻ tag"
+
+msgid "hotel_facilities"
+msgstr "Tiện ích"
+
+msgid "hotel_description"
+msgstr "Mô tả chi tiết"
+
+msgid "hotel_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "hotel_parent_id"
+msgstr "Tên khách sạn cha"
+
+msgid "hotel_country"
+msgstr "Quốc gia"
+
+msgid "hotel_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "hotel_location"
+msgstr "Thông tin khách sạn"
+
+msgid "hotel_name"
+msgstr "Tên khách sạn"
+
+msgid "hotel_order"
+msgstr "Thứ tự"
+
+msgid "hotel_address"
+msgstr "Địa chỉ"
+
+msgid "hotel_source"
+msgstr "Nguồn"
+
+msgid "hotel_website"
+msgstr "Website"
+
+msgid "hotel_tel"
+msgstr "Số điện thoại liên hệ"
+
+msgid "hotel_fax"
+msgstr "Fax"
+
+msgid "hotel_standard_rate"
+msgstr "Tiêu chuẩn khách sạn"
+
+msgid "hotel_types"
+msgstr "Mô hình"
+
+msgid "hotel_total_room"
+msgstr "Tổng số phòng"
+
+msgid "hotel_total_floor"
+msgstr "Tổng số tầng"
+
+msgid "hotel_area"
+msgstr "Diện tích"
+
+msgid "hotel_status"
+msgstr "Trạng thái"
+
+msgid "hotel_room_types"
+msgstr "Phòng nghỉ"
+
+msgid "hotel_room_types_type"
+msgstr "Loại phòng"
+
+msgid "hotel_room_types_total"
+msgstr "Số phòng tương tự"
+
+msgid "hotel_room_types_capacity"
+msgstr "Sức chứa"
+
+msgid "hotel_room_types_description"
+msgstr "Mô tả"
+
+msgid "hotel_room_types_order"
+msgstr "Thứ tự hiển thị"
+
+msgid "hotel_room_types_price_range"
+msgstr "Khoảng giá"
+
+msgid "hotel_room_types_max"
+msgstr "Giá cao nhất"
+
+msgid "hotel_room_types_min"
+msgstr "Giá thấp nhất"
+
+msgid "hotel_modified"
+msgstr "Cập nhật"
+
+msgid "hotel_types_motel"
+msgstr "Nhà nghỉ"
+
+msgid "hotel_types_hotel"
+msgstr "Khách sạn"
+
+# Hotel - END
+
+
+# /Restaurants/* - BEGIN
+msgid "restaurant_title"
+msgstr "Danh sách nhà hàng"
+# /Restaurants/* - END
+
+# Restaurant - BEGIN
+msgid "restaurant_rating"
+msgstr "Đánh giá"
+
+msgid "restaurant_topics"
+msgstr "Chủ đề"
+
+msgid "restaurant_parent_id"
+msgstr "Tên nhà hàng cha"
+
+msgid "restaurant_country"
+msgstr "Quốc gia"
+
+msgid "restaurant_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "restaurant_location"
+msgstr "Thông tin nhà hàng"
+
+msgid "restaurant_name"
+msgstr "Tên nhà hàng"
+
+msgid "restaurant_order"
+msgstr "Thứ tự"
+
+msgid "restaurant_description"
+msgstr "Mô tả chi tiết"
+
+msgid "restaurant_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "restaurant_address"
+msgstr "Địa chỉ"
+
+msgid "restaurant_source"
+msgstr "Nguồn"
+
+msgid "restaurant_website"
+msgstr "Website"
+
+msgid "restaurant_tel"
+msgstr "Số điện thoại liên hệ"
+
+msgid "restaurant_email"
+msgstr "Email"
+
+msgid "restaurant_capacity"
+msgstr "Sức chứa"
+
+msgid "restaurant_working_hours"
+msgstr "Thời gian làm việc"
+
+msgid "restaurant_open_time"
+msgstr "Giờ mở cửa"
+
+msgid "restaurant_close_time"
+msgstr "Giờ đóng cửa"
+
+msgid "restaurant_last_order_time"
+msgstr "Thời gian nhận đặt hàng cuối cùng"
+
+msgid "restaurant_nth_days"
+msgstr "Các ngày làm việc trong tuần"
+
+msgid "restaurant_price_range"
+msgstr "Khoảng giá"
+
+msgid "restaurant_addon_detail"
+msgstr "Thông tin bổ sung"
+
+msgid "restaurant_addon_detail_cook_time"
+msgstr "Thời gian chuẩn bị bữa ăn"
+
+msgid "restaurant_addon_detail_cook_time_min"
+msgstr "Nhanh nhất"
+
+msgid "restaurant_addon_detail_cook_time_max"
+msgstr "Chậm nhất"
+
+msgid "restaurant_addon_detail_activeon"
+msgstr "Hoạt động"
+
+msgid "restaurant_addon_detail_purposes"
+msgstr "Mục đích phù hợp"
+
+msgid "restaurant_addon_detail_dishes"
+msgstr "Món đặc trưng"
+
+msgid "restaurant_addon_detail_cuisines"
+msgstr "Ẩm thực"
+
+msgid "restaurant_addon_detail_facilities"
+msgstr "Tiện nghi"
+
+msgid "restaurant_status"
+msgstr "Trạng thái"
+
+msgid "restaurant_min_cost"
+msgstr "Giá cao nhất"
+
+msgid "restaurant_max_cost"
+msgstr "Giá thấp nhất"
+
+msgid "restaurant_modified"
+msgstr "Cập nhật"
+
+# Restaurant - END
+
+
+# /Places/* - BEGIN
+msgid "place_title"
+msgstr "Danh sách địa điểm du lịch"
+
+msgid "place_info"
+msgstr "Thông tin địa điểm du lịch"
+# /Places/* - END
+
+# Place - BEGIN
+msgid "nav_tours"
+msgstr "Du lịch"
+
+msgid "nav_news_category"
+msgstr "Tin tức"
+
+msgid "place_parent_id"
+msgstr "Tên địa danh cha"
+
+msgid "place_country"
+msgstr "Quốc gia"
+
+msgid "place_rating"
+msgstr "Đánh giá"
+
+msgid "place_topics"
+msgstr "Chủ đề"
+
+msgid "place_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "place_location"
+msgstr "Thông tin địa điểm"
+
+msgid "place_name"
+msgstr "Tên địa danh"
+
+msgid "place_order"
+msgstr "Thứ tự"
+
+msgid "place_description"
+msgstr "Mô tả chi tiết"
+
+msgid "place_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "place_address"
+msgstr "Địa chỉ"
+
+msgid "place_source"
+msgstr "Nguồn"
+
+msgid "place_website"
+msgstr "Website"
+
+msgid "place_tel"
+msgstr "Số điện thoại liên hệ"
+
+msgid "place_email"
+msgstr "Email"
+
+msgid "place_capacity"
+msgstr "Sức chứa"
+
+msgid "place_working_hours"
+msgstr "Thời gian làm việc"
+
+msgid "place_open_time"
+msgstr "Giờ mở cửa"
+
+msgid "place_close_time"
+msgstr "Giờ đóng cửa"
+
+msgid "place_last_order_time"
+msgstr "Thời gian nhận đặt hàng cuối cùng"
+
+msgid "place_nth_days"
+msgstr "Các ngày làm việc trong tuần"
+
+msgid "place_price_range"
+msgstr "Khoảng giá"
+
+msgid "place_addon_detail"
+msgstr "Thông tin bổ sung"
+
+msgid "place_addon_detail_cook_time"
+msgstr "Thời gian chuẩn bị bữa ăn"
+
+msgid "place_addon_detail_cook_time_min"
+msgstr "Nhanh nhất"
+
+msgid "place_addon_detail_cook_time_max"
+msgstr "Chậm nhất"
+
+msgid "place_addon_detail_activeon"
+msgstr "Hoạt động"
+
+msgid "place_addon_detail_purposes"
+msgstr "Mục đích phù hợp"
+
+msgid "place_addon_detail_dishes"
+msgstr "Món đặc trưng"
+
+msgid "place_addon_detail_cuisines"
+msgstr "Ẩm thực"
+
+msgid "place_addon_detail_facilities"
+msgstr "Tiện nghi"
+
+msgid "place_status"
+msgstr "Trạng thái"
+
+msgid "place_min_cost"
+msgstr "Giá cao nhất"
+
+msgid "place_max_cost"
+msgstr "Giá thấp nhất"
+
+msgid "place_modified"
+msgstr "Cập nhật"
+
+# Place - END
+
+
+# /Topics/* - BEGIN
+msgid "topic_title"
+msgstr "Danh sách chuyên mục"
+
+msgid "topic_nav_title"
+msgstr "Chủ đề"
+# /Topics/* - END
+
+# Topic - BEGIN
+msgid "topic_name"
+msgstr "Tiêu đề chuyên mục"
+
+msgid "topic_parent_id"
+msgstr "Chủ đề gốc"
+
+msgid "topic_seo_url"
+msgstr "Seo Url"
+
+msgid "topic_meta_tags"
+msgstr "Meta Tag"
+
+msgid "topic_description"
+msgstr "Mô tả chi tiết"
+
+msgid "topic_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "topic_weight"
+msgstr "Thứ tự"
+
+msgid "topic_user"
+msgstr "Người tạo"
+
+msgid "topic_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "topic_status"
+msgstr "Trạng thái"
+
+msgid "topic_publish_time"
+msgstr "Thời gian hiển thị"
+
+msgid "topic_modified"
+msgstr "Cập nhật"
+
+# Topic - END
+
+# /Blogs/* - BEGIN
+msgid "blog_title"
+msgstr "Danh sách blog"
+
+msgid "blog_nav_title"
+msgstr "Blog"
+# /Blogs/* - END
+
+# Blog - BEGIN
+msgid "blog_name"
+msgstr "Tiêu đề blog"
+
+msgid "blog_topic"
+msgstr "Chủ đề"
+
+msgid "blog_seo_url"
+msgstr "Seo Url"
+
+msgid "blog_meta_tags"
+msgstr "Meta Tag"
+
+msgid "blog_tags"
+msgstr "Thẻ tag"
+
+msgid "blog_keyword"
+msgstr "Keyword"
+
+msgid "blog_description"
+msgstr "Nội dung bài viết"
+
+msgid "blog_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "blog_weight"
+msgstr "Thứ tự"
+
+msgid "blog_user"
+msgstr "Người tạo"
+
+msgid "blog_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "blog_status"
+msgstr "Trạng thái"
+
+msgid "blog_publish_time"
+msgstr "Thời gian hiển thị"
+
+msgid "blog_modified"
+msgstr "Cập nhật"
+# Blog - END
+
+# /Themes/* - BEGIN
+msgid "theme_title"
+msgstr "Danh sách theme"
+
+msgid "theme_nav_title"
+msgstr "Theme"
+# /Themes/* - END
+
+# Theme - BEGIN
+msgid "theme_name"
+msgstr "Tiêu đề theme"
+
+msgid "theme_topic"
+msgstr "Chủ đề"
+
+msgid "theme_seo_url"
+msgstr "Seo Url"
+
+msgid "theme_meta_tags"
+msgstr "Meta Tag"
+
+msgid "theme_tags"
+msgstr "Thẻ tag"
+
+msgid "theme_type"
+msgstr "Kiểu"
+
+msgid "theme_header_background"
+msgstr "Mã màu header"
+
+msgid "theme_footer_background"
+msgstr "Mã màu footer"
+
+msgid "theme_header_text"
+msgstr "Header text"
+
+msgid "theme_link_text"
+msgstr "Link text"
+
+msgid "theme_footer_text"
+msgstr "Footer text"
+
+msgid "theme_description"
+msgstr "Mô tả"
+
+msgid "theme_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "theme_weight"
+msgstr "Thứ tự"
+
+msgid "theme_user"
+msgstr "Người tạo"
+
+msgid "theme_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "theme_status"
+msgstr "Trạng thái"
+
+msgid "theme_publish_time"
+msgstr "Thời gian hiển thị"
+
+msgid "theme_modified"
+msgstr "Cập nhật"
+# Theme - END
+
+# /Activities/* - BEGIN
+msgid "activity_title"
+msgstr "Danh sách hoạt động"
+
+msgid "activity_nav_title"
+msgstr "Hoạt động"
+# /Activities/* - END
+
+# Activity - BEGIN
+msgid "activity_info"
+msgstr "Thông tin hoạt động"
+
+msgid "place_activities_index_btn"
+msgstr "Tạo hoạt động cho địa điểm du lịch"
+
+msgid "region_activities_index_btn"
+msgstr "Tạo hoạt động cho tỉnh thành phố"
+
+msgid "activity_rating"
+msgstr "Đánh giá"
+
+msgid "activity_lang_code"
+msgstr "Ngôn ngữ"
+
+msgid "activity_source"
+msgstr "Nguồn nội dung"
+
+msgid "activity_country"
+msgstr "Quốc gia"
+
+msgid "activity_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "activity_location"
+msgstr "Thông tin hoạt động"
+
+msgid "activity_name"
+msgstr "Tên hoạt động"
+
+msgid "activity_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "activity_description"
+msgstr "Mô tả chi tiết"
+
+msgid "activity_order"
+msgstr "Thứ tự"
+
+msgid "activity_status"
+msgstr "Trạng thái"
+
+msgid "activity_modified"
+msgstr "Cập nhật"
+
+# Activity - END
+
+# /Comments/* - BEGIN
+msgid "comment_title"
+msgstr "Danh sách bình luận"
+# /Comments/* - END
+
+# Comment - BEGIN
+msgid "comment_info"
+msgstr "Thông tin mô tả"
+
+msgid "place_comments_index_btn"
+msgstr "Tạo bình luận cho địa điểm du lịch"
+
+msgid "comment_object"
+msgstr "Tên đối tượng bình luận"
+
+msgid "comment_visitor"
+msgstr "Người bình luận"
+
+msgid "comment_parant_id"
+msgstr "Bình luận cha"
+
+msgid "comment_os_name"
+msgstr "Hệ điều hành"
+
+msgid "comment_os_version"
+msgstr "Phiên bản"
+
+msgid "comment_content"
+msgstr "Nội dung"
+
+msgid "comment_order"
+msgstr "Thứ tự"
+
+msgid "comment_status"
+msgstr "Trạng thái"
+
+msgid "comment_modified"
+msgstr "Cập nhật"
+
+# Comment - END
+
+# /Promotions/* - BEGIN
+msgid "promotion_title"
+msgstr "Chương trình khuyến mãi"
+# /Promotions/* - END
+
+# Promotion - BEGIN
+msgid "promotion_info"
+msgstr "Thông tin khuyến mãi"
+
+msgid "place_activities_index_btn"
+msgstr "Tạo hoạt động cho địa điểm du lịch"
+
+msgid "region_activities_index_btn"
+msgstr "Tạo hoạt động cho tỉnh thành phố"
+
+msgid "promotion_date"
+msgstr "Thời gian diễn ra"
+
+msgid "promotion_rating"
+msgstr "Đánh giá"
+
+msgid "promotion_lang_code"
+msgstr "Ngôn ngữ"
+
+msgid "promotion_source"
+msgstr "Nguồn nội dung"
+
+msgid "promotion_country"
+msgstr "Quốc gia"
+
+msgid "promotion_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "promotion_location"
+msgstr "Thông tin chương trình khuyến mãi"
+
+msgid "promotion_name"
+msgstr "Tên chương trình khuyến mãi"
+
+msgid "promotion_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "promotion_description"
+msgstr "Mô tả chi tiết"
+
+msgid "promotion_order"
+msgstr "Thứ tự"
+
+msgid "promotion_status"
+msgstr "Trạng thái"
+
+msgid "promotion_modified"
+msgstr "Cập nhật"
+
+# Promotion - END
+
+# /Coupons/* - BEGIN
+msgid "coupon_title"
+msgstr "Mã giảm giá"
+# /Coupons/* - END
+
+# Coupon - BEGIN
+msgid "coupon_info"
+msgstr "Thông tin mã giảm giá"
+
+msgid "place_activities_index_btn"
+msgstr "Tạo mã giảm giá cho địa điểm du lịch"
+
+msgid "region_activities_index_btn"
+msgstr "Tạo mã giảm giá cho tỉnh thành phố"
+
+msgid "coupon_date"
+msgstr "Thời gian diễn ra"
+
+msgid "coupon_rating"
+msgstr "Đánh giá"
+
+msgid "coupon_lang_code"
+msgstr "Ngôn ngữ"
+
+msgid "coupon_source"
+msgstr "Nguồn nội dung"
+
+msgid "coupon_country"
+msgstr "Quốc gia"
+
+msgid "coupon_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "coupon_location"
+msgstr "Thông tin mã giảm giá"
+
+msgid "coupon_name"
+msgstr "Tên mã giảm giá"
+
+msgid "coupon_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "coupon_description"
+msgstr "Mô tả chi tiết"
+
+msgid "coupon_order"
+msgstr "Thứ tự"
+
+msgid "coupon_status"
+msgstr "Trạng thái"
+
+msgid "coupon_modified"
+msgstr "Cập nhật"
+
+# Coupon - END
+
+# /Hospitals/* - BEGIN
+msgid "hospital_title"
+msgstr "Danh sách bệnh viện"
+
+msgid "hospital_nav_title"
+msgstr "Bệnh viện"
+# /Hospitals/* - END
+
+# Hospital - BEGIN
+msgid "hospital_name"
+msgstr "Tên bệnh viện"
+
+msgid "hospital_parent_id"
+msgstr "Tên bệnh viện cha"
+
+msgid "hospital_country"
+msgstr "Quốc gia"
+
+msgid "hospital_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "hospital_location"
+msgstr "Thông tin bệnh viện"
+
+msgid "hospital_tel"
+msgstr "Số điện thoại liên hệ"
+
+msgid "hospital_website"
+msgstr "Website"
+
+msgid "hospital_fax"
+msgstr "Fax"
+
+msgid "hospital_address"
+msgstr "Địa chỉ"
+
+msgid "hospital_user"
+msgstr "Người tạo"
+
+msgid "hospital_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "hospital_files"
+msgstr "File bệnh viện"
+
+msgid "hospital_status"
+msgstr "Trạng thái"
+
+msgid "hospital_description"
+msgstr "Mô tả chi tiết"
+
+msgid "hospital_categories"
+msgstr "Danh mục"
+
+msgid "hospital_collections"
+msgstr "Thể loại"
+
+msgid "hospital_modified"
+msgstr "Cập nhật"
+
+msgid "hospital_start_date"
+msgstr "Ngày bắt đầu"
+
+msgid "hospital_end_date"
+msgstr "Ngày kết thúc"
+# Hospital - END
+
+# User - BEGIN
+msgid "user_title"
+msgstr "Quản lý user"
+
+msgid "user_add_title"
+msgstr "Thêm mới user"
+
+msgid "user_edit_title"
+msgstr "Chỉnh sửa user"
+
+msgid "user_username"
+msgstr "Tên tài khoản"
+
+msgid "user_password"
+msgstr "Mật khẩu"
+
+msgid "user_password_confirm"
+msgstr "Nhập lại mật khẩu"
+
+msgid "user_email"
+msgstr "Email"
+
+msgid "user_type"
+msgstr "Phân loại"
+
+msgid "user_distributor"
+msgstr "Nhà phân phối"
+
+msgid "user_content_provider"
+msgstr "Nhà cung cấp nội dung"
+
+msgid "user_user_group"
+msgstr "Nhóm user group"
+
+msgid "user_status"
+msgstr "Trạng thái"
+
+msgid "user_last_login"
+msgstr "Thởi điểm đăng nhập gần nhất"
+
+msgid "user_description"
+msgstr "Mô tả"
+# User - END
+
+# UserChannel - BEGIN
+msgid "user_channel_title"
+msgstr "Quản lý thành viên kênh truyền thông"
+
+msgid "user_group_channel_title"
+msgstr "Quản lý nhóm thành viên kênh truyền thông"
+
+msgid "user_channel_code"
+msgstr "Mã kênh phân phối"
+# UserChannel - END
+
+# UserGroup - BEGIN
+msgid "user_group_title"
+msgstr "Quản lý user group"
+
+msgid "user_group_index_title"
+msgstr "Danh sách user group"
+
+msgid "user_group_add_title"
+msgstr "Thêm mới user group"
+
+msgid "user_group_edit_title"
+msgstr "Chỉnh sửa user group"
+
+msgid "user_group_name"
+msgstr "Tên nhóm"
+
+msgid "user_group_home_url"
+msgstr "Trang home"
+
+msgid "user_group_description"
+msgstr "Mô tả"
+
+msgid "user_group_permissions"
+msgstr "Quyền hạn"
+
+msgid "user_group_status"
+msgstr "Trạng thái"
+
+msgid "user_group_permissions_placeholder"
+msgstr "Gán quyền hạn..."
+# UserGroup - END
+
+# /Tours/* - BEGIN
+msgid "tour_title"
+msgstr "Danh sách tour du lịch"
+
+msgid "tour_add_title"
+msgstr "Thêm mới tour du lịch"
+
+msgid "tour_edit_title"
+msgstr "Chỉnh sửa tour du lịch"
+# /Tours/* - END
+
+# Tour - BEGIN
+msgid "tour_name"
+msgstr "Tên tour"
+
+msgid "tour_amount"
+msgstr "Giá gốc"
+
+msgid "tour_note"
+msgstr "Ghi chú"
+
+msgid "tour_price_discount_amount"
+msgstr "Giá khuyến mãi"
+
+msgid "tour_price_discount_pct"
+msgstr "Giảm giá (%)"
+
+msgid "tour_price"
+msgstr "Giá tour"
+
+msgid "tour_rating"
+msgstr "Đánh giá"
+
+msgid "tour_order"
+msgstr "Thứ tự"
+
+msgid "tour_book_link"
+msgstr "Link đặt tour"
+
+msgid "tour_duration"
+msgstr "Khoảng thời gian tour"
+
+msgid "tour_tel"
+msgstr "Số điện thoại liên hệ"
+
+msgid "tour_country"
+msgstr "Quốc gia"
+
+msgid "tour_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "tour_location"
+msgstr "Thông tin tour"
+
+msgid "tour_source"
+msgstr "Nguồn"
+
+msgid "tour_user"
+msgstr "Người tạo"
+
+msgid "tour_currency_code"
+msgstr "Mã tiền tệ"
+
+msgid "tour_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "tour_files"
+msgstr "File tin tức"
+
+msgid "tour_status"
+msgstr "Trạng thái"
+
+msgid "tour_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "tour_description"
+msgstr "Mô tả chi tiết"
+
+msgid "tour_categories"
+msgstr "Danh mục"
+
+msgid "tour_collections"
+msgstr "Thể loại"
+
+msgid "tour_modified"
+msgstr "Cập nhật"
+
+# Tour - END
+
+# /WeatherDescriptions/* - BEGIN
+msgid "weather_description_title"
+msgstr "Danh sách mô tả thời tiết"
+# /WeatherDescriptions/* - END
+
+# WeatherDescription - BEGIN
+msgid "weather_description_code"
+msgstr "Mã code"
+
+msgid "weather_description_content"
+msgstr "Mô tả"
+
+msgid "weather_description_lang_code"
+msgstr "Ngôn ngữ"
+
+msgid "weather_description_datas"
+msgstr "Nội dung"
+
+msgid "weather_description_files"
+msgstr "File"
+
+msgid "weather_description_files"
+msgstr "File"
+
+msgid "weather_description_modified"
+msgstr "Cập nhật"
+
+msgid "This code is used"
+msgstr "Mã code này đã được nhập"
+
+# WeatherDescription - END
+
+# ObjectType - BEGIN
+msgid "object_type_title"
+msgstr "Danh sách Object Type"
+
+msgid "object_type_name"
+msgstr "Tên"
+
+msgid "object_type_code"
+msgstr "Mã kiểu"
+
+msgid "object_type_location_relations"
+msgstr "Liên kết location với"
+
+msgid "object_type_description"
+msgstr "Mô tả"
+
+msgid "object_type_order"
+msgstr "Thứ tự"
+
+msgid "object_type_status"
+msgstr "Trạng thái"
+
+# ObjectType - END
+
+# LocationCommon - BEGIN
+msgid "location_common_country"
+msgstr "Quốc gia"
+
+msgid "location_common_region"
+msgstr "Tỉnh/thành phố"
+
+msgid "location_common_longitude"
+msgstr "Kinh độ"
+
+msgid "location_common_latitude"
+msgstr "Vĩ độ"
+
+# LocationCommon - END
+
+# /Taxi/* - BEGIN
+msgid "taxi_title"
+msgstr "Danh sách hãng taxi"
+
+msgid "taxi_nav_title"
+msgstr "Taxi"
+# /Taxi/* - END
+
+# Taxi - BEGIN
+msgid "taxi_name"
+msgstr "Tên hãng taxi"
+
+msgid "taxi_country"
+msgstr "Quốc gia"
+
+msgid "taxi_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "taxi_location"
+msgstr "Thông tin taxi"
+
+msgid "taxi_source"
+msgstr "Nguồn"
+
+msgid "taxi_user"
+msgstr "Người tạo"
+
+msgid "taxi_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "taxi_files"
+msgstr "File tin tức"
+
+msgid "taxi_status"
+msgstr "Trạng thái"
+
+msgid "taxi_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "taxi_description"
+msgstr "Mô tả chi tiết"
+
+msgid "taxi_categories"
+msgstr "Danh mục"
+
+msgid "taxi_collections"
+msgstr "Thể loại"
+
+msgid "taxi_modified"
+msgstr "Cập nhật"
+
+msgid "taxi_website"
+msgstr "Website"
+
+msgid "taxi_tel"
+msgstr "Số điện thoại"
+
+msgid "taxi_order"
+msgstr "Thứ tự"
+
+# Taxi - END
+
+# /BusStations/* - BEGIN
+msgid "bus_station_title"
+msgstr "Danh sách bến xe"
+# /BusStations/* - END
+
+# BusStation - BEGIN
+msgid "bus_station_name"
+msgstr "Tên bến xe"
+
+msgid "bus_station_country"
+msgstr "Quốc gia"
+
+msgid "bus_station_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "bus_station_location"
+msgstr "Thông tin bến xe"
+
+msgid "bus_station_source"
+msgstr "Nguồn"
+
+msgid "bus_station_user"
+msgstr "Người tạo"
+
+msgid "bus_station_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "bus_station_files"
+msgstr "File tin tức"
+
+msgid "bus_station_status"
+msgstr "Trạng thái"
+
+msgid "bus_station_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "bus_station_description"
+msgstr "Mô tả chi tiết"
+
+msgid "bus_station_categories"
+msgstr "Danh mục"
+
+msgid "bus_station_collections"
+msgstr "Thể loại"
+
+msgid "bus_station_modified"
+msgstr "Cập nhật"
+
+msgid "bus_station_website"
+msgstr "Website"
+
+msgid "bus_station_tel"
+msgstr "Số điện thoại"
+
+msgid "bus_station_open_time"
+msgstr "Giờ mở cửa"
+
+msgid "bus_station_tags"
+msgstr "Thẻ tags"
+
+msgid "bus_station_address"
+msgstr "Địa chỉ"
+
+msgid "bus_station_order"
+msgstr "Thứ tự"
+
+# BusStation - END
+
+# /Trains/* - BEGIN
+msgid "train_title"
+msgstr "Danh sách hãng tàu hỏa"
+
+msgid "train_nav_title"
+msgstr "Tàu hỏa"
+# /Trains/* - END
+
+# Train - BEGIN
+msgid "train_name"
+msgstr "Tên hãng tàu hỏa"
+
+msgid "train_country"
+msgstr "Quốc gia"
+
+msgid "train_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "train_location"
+msgstr "Thông tin tàu hỏa"
+
+msgid "train_source"
+msgstr "Nguồn"
+
+msgid "train_user"
+msgstr "Người tạo"
+
+msgid "train_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "train_files"
+msgstr "File tin tức"
+
+msgid "train_status"
+msgstr "Trạng thái"
+
+msgid "train_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "train_description"
+msgstr "Mô tả chi tiết"
+
+msgid "train_categories"
+msgstr "Danh mục"
+
+msgid "train_collections"
+msgstr "Thể loại"
+
+msgid "train_modified"
+msgstr "Cập nhật"
+
+msgid "train_website"
+msgstr "Website"
+
+msgid "train_tel"
+msgstr "Số điện thoại"
+
+msgid "train_order"
+msgstr "Thứ tự"
+
+# Train - END
+
+# /Airlines/* - BEGIN
+msgid "airline_title"
+msgstr "Danh sách hãng hàng không"
+
+msgid "airline_nav_title"
+msgstr "Hãng hàng không"
+# /Airlines/* - END
+
+# Airline - BEGIN
+msgid "airline_name"
+msgstr "Tên hãng hàng không"
+
+msgid "airline_country"
+msgstr "Quốc gia"
+
+msgid "airline_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "airline_location"
+msgstr "Thông tin hàng không"
+
+msgid "airline_source"
+msgstr "Nguồn"
+
+msgid "airline_user"
+msgstr "Người tạo"
+
+msgid "airline_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "airline_files"
+msgstr "File tin tức"
+
+msgid "airline_status"
+msgstr "Trạng thái"
+
+msgid "airline_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "airline_description"
+msgstr "Mô tả chi tiết"
+
+msgid "airline_categories"
+msgstr "Danh mục"
+
+msgid "airline_collections"
+msgstr "Thể loại"
+
+msgid "airline_modified"
+msgstr "Cập nhật"
+
+msgid "airline_website"
+msgstr "Website"
+
+msgid "airline_tel"
+msgstr "Số điện thoại"
+
+msgid "airline_order"
+msgstr "Thứ tự"
+
+# Airline - END
+
+# /Buses/* - BEGIN
+msgid "bus_title"
+msgstr "Danh sách hãng xe buýt"
+
+msgid "bus_nav_title"
+msgstr "Xe khách"
+# /Buses/* - END
+
+# Bus - BEGIN
+msgid "bus_name"
+msgstr "Tên hãng xe buýt"
+
+msgid "bus_country"
+msgstr "Quốc gia"
+
+msgid "bus_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "bus_location"
+msgstr "Thông tin xe buýt"
+
+msgid "bus_source"
+msgstr "Nguồn"
+
+msgid "bus_user"
+msgstr "Người tạo"
+
+msgid "bus_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "bus_files"
+msgstr "File tin tức"
+
+msgid "bus_status"
+msgstr "Trạng thái"
+
+msgid "bus_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "bus_description"
+msgstr "Mô tả chi tiết"
+
+msgid "bus_categories"
+msgstr "Danh mục"
+
+msgid "bus_collections"
+msgstr "Thể loại"
+
+msgid "bus_modified"
+msgstr "Cập nhật"
+
+msgid "bus_website"
+msgstr "Website"
+
+msgid "bus_tel"
+msgstr "Số điện thoại"
+
+msgid "bus_address"
+msgstr "Địa chỉ"
+
+msgid "bus_hot_line"
+msgstr "Đường dây nóng"
+
+msgid "bus_order"
+msgstr "Thứ tự"
+
+# Bus - END
+
+# /Ships/* - BEGIN
+msgid "ship_title"
+msgstr "Danh sách hãng tàu/thuyền"
+
+msgid "ship_nav_title"
+msgstr "Tàu thuyền"
+# /Ships/* - END
+
+# Ship - BEGIN
+msgid "ship_name"
+msgstr "Tên hãng tàu/thuyền"
+
+msgid "ship_country"
+msgstr "Quốc gia"
+
+msgid "ship_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "ship_location"
+msgstr "Thông tin hãng tàu/thuyền"
+
+msgid "ship_source"
+msgstr "Nguồn"
+
+msgid "ship_user"
+msgstr "Người tạo"
+
+msgid "ship_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "ship_files"
+msgstr "File tin tức"
+
+msgid "ship_status"
+msgstr "Trạng thái"
+
+msgid "ship_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "ship_description"
+msgstr "Mô tả chi tiết"
+
+msgid "ship_categories"
+msgstr "Danh mục"
+
+msgid "ship_collections"
+msgstr "Thể loại"
+
+msgid "ship_modified"
+msgstr "Cập nhật"
+
+msgid "ship_website"
+msgstr "Website"
+
+msgid "ship_tel"
+msgstr "Số điện thoại"
+
+msgid "ship_address"
+msgstr "Địa chỉ"
+
+msgid "ship_hot_line"
+msgstr "Đường dây nóng"
+
+msgid "ship_order"
+msgstr "Thứ tự"
+
+# Ship - END
+
+# /Banks/* - BEGIN
+msgid "bank_title"
+msgstr "Ngân hàng - ATM"
+
+msgid "bank_nav_title"
+msgstr "Ngân hàng"
+# /Banks/* - END
+
+# Bank - BEGIN
+msgid "bank_name"
+msgstr "Tên ngân hàng"
+
+msgid "bank_country"
+msgstr "Quốc gia"
+
+msgid "bank_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "bank_location"
+msgstr "Thông tin ngân hàng"
+
+msgid "bank_source"
+msgstr "Nguồn"
+
+msgid "bank_user"
+msgstr "Người tạo"
+
+msgid "bank_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "bank_files"
+msgstr "File tin tức"
+
+msgid "bank_status"
+msgstr "Trạng thái"
+
+msgid "bank_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "bank_description"
+msgstr "Mô tả chi tiết"
+
+msgid "bank_categories"
+msgstr "Danh mục"
+
+msgid "bank_collections"
+msgstr "Thể loại"
+
+msgid "bank_modified"
+msgstr "Cập nhật"
+
+msgid "bank_website"
+msgstr "Website"
+
+msgid "bank_rating"
+msgstr "Đánh giá"
+
+msgid "bank_tel"
+msgstr "Số điện thoại"
+
+msgid "bank_order"
+msgstr "Thứ tự"
+
+msgid "bank_address"
+msgstr "Địa chỉ"
+
+# Bank - END
+
+# /Atms/* - BEGIN
+msgid "atm_title"
+msgstr "Danh sách ATM"
+# /Atms/* - END
+
+# Atm - BEGIN
+msgid "atm_name"
+msgstr "Tên ATM"
+
+msgid "atm_country"
+msgstr "Quốc gia"
+
+msgid "atm_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "atm_location"
+msgstr "Thông tin ATM"
+
+msgid "atm_address"
+msgstr "Địa chỉ"
+
+msgid "atm_user"
+msgstr "Người tạo"
+
+msgid "atm_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "atm_files"
+msgstr "File tin tức"
+
+msgid "atm_status"
+msgstr "Trạng thái"
+
+msgid "atm_short_description"
+msgstr "Mô tả ngắn"
+
+msgid "atm_description"
+msgstr "Mô tả chi tiết"
+
+msgid "atm_categories"
+msgstr "Danh mục"
+
+msgid "atm_collections"
+msgstr "Thể loại"
+
+msgid "atm_modified"
+msgstr "Cập nhật"
+
+msgid "atm_website"
+msgstr "Website"
+
+msgid "atm_rating"
+msgstr "Đánh giá"
+
+msgid "atm_tel"
+msgstr "Số điện thoại"
+
+msgid "atm_order"
+msgstr "Thứ tự"
+
+# Atm - END
+
+# Category - BEGIN
+msgid "category_name"
+msgstr "Tên"
+
+msgid "category_title"
+msgstr "Danh mục"
+
+msgid "category_order"
+msgstr "Thứ tự"
+
+msgid "category_description"
+msgstr "Mô tả"
+
+msgid "category_status"
+msgstr "Trạng thái"
+
+msgid "category_parent_id"
+msgstr "Phân cấp"
+
+msgid "category_modified"
+msgstr "Ngày cật nhật"
+
+msgid "category_user"
+msgstr "Người tạo"
+
+# Category - END
+
+# Collection - BEGIN
+msgid "collection_name"
+msgstr "Tên"
+
+msgid "collection_title"
+msgstr "Thể loại"
+
+msgid "collection_order"
+msgstr "Thứ tự"
+
+msgid "collection_description"
+msgstr "Mô tả"
+
+msgid "collection_status"
+msgstr "Trạng thái"
+
+# Collection - END
+
+# TourCategory - BEGIN
+msgid "tour_category_name"
+msgstr "Tên"
+
+msgid "tour_category_order"
+msgstr "Thứ tự"
+
+msgid "tour_category_description"
+msgstr "Mô tả"
+
+msgid "tour_category_status"
+msgstr "Trạng thái"
+
+# TourCategory - END
+
+# /Categories/* - BEGIN
+msgid "tour_category_title"
+msgstr "Danh sách tour danh mục"
+
+# /Categories/* - END
+
+# NavBar - BEGIN
+msgid "place_nav_title"
+msgstr "Địa điểm du lịch"
+
+msgid "restaurant_nav_title"
+msgstr "Nhà hàng"
+
+msgid "hotel_nav_title"
+msgstr "Khách sạn"
+
+msgid "tour_nav_title"
+msgstr "Tour du lịch"
+
+msgid "country_nav_title"
+msgstr "Quốc gia"
+
+msgid "region_nav_title"
+msgstr "Địa danh"
+
+msgid "location_nav_title"
+msgstr "Vị trí địa lý"
+
+msgid "category_nav_title"
+msgstr "Danh mục"
+
+# NavBar - END
+
+# /ObjectIcons/* - BEGIN
+msgid "object_icon_title"
+msgstr "Danh sách icon"
+
+# /ObjectIcons/* - END
+
+# ObjectIcon - BEGIN
+msgid "object_icon_name"
+msgstr "Tên"
+
+msgid "object_icon_order"
+msgstr "Thứ tự"
+
+msgid "object_icon_description"
+msgstr "Mô tả"
+
+msgid "object_icon_status"
+msgstr "Trạng thái"
+
+# ObjectIcon - END
+
+# /Facilities/* - BEGIN
+msgid "facility_title"
+msgstr "Danh sách thiết bị"
+
+msgid "facility_nav_title"
+msgstr "Tiện ích"
+
+# /Facilities/* - END
+
+# Facility - BEGIN
+msgid "facility_name"
+msgstr "Tên thiết bị"
+
+msgid "facility_order"
+msgstr "Thứ tự"
+
+msgid "facility_description"
+msgstr "Mô tả"
+
+msgid "facility_status"
+msgstr "Trạng thái"
+
+# Facility - END
+
+# /Visitors/* - BEGIN
+msgid "visitor_title"
+msgstr "Danh sách người dùng"
+
+msgid "nav_user"
+msgstr "Quản lý users"
+
+msgid "visitor_nav_title"
+msgstr "Người dùng"
+
+msgid "nav_customers"
+msgstr "Quản lý khách hàng"
+# /Visitors/* - END
+
+# Visitor - BEGIN
+msgid "visitor_name"
+msgstr "Tên đầy đủ"
+
+msgid "visitor_username"
+msgstr "Tên đăng nhập"
+
+msgid "visitor_password"
+msgstr "Mật khẩu"
+
+msgid "visitor_first_name"
+msgstr "Tên"
+
+msgid "visitor_middle_name"
+msgstr "Tên đệm"
+
+msgid "visitor_last_name"
+msgstr "Họ"
+
+msgid "visitor_gender"
+msgstr "Giới tính"
+
+msgid "visitor_time_zone"
+msgstr "Múi giờ"
+
+msgid "visitor_email"
+msgstr "Email"
+
+msgid "visitor_mobile"
+msgstr "Số điện thoại"
+
+msgid "visitor_avatar_url"
+msgstr "Đường dẫn avatar"
+
+msgid "visitor_last_login"
+msgstr "Lần đăng nhập cuối"
+
+msgid "visitor_order"
+msgstr "Thứ tự"
+
+msgid "Avatar file"
+msgstr "Ảnh avatar"
+
+msgid "visitor_user"
+msgstr "Người tạo"
+
+msgid "visitor_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "visitor_status"
+msgstr "Trạng thái"
+
+msgid "visitor_modified"
+msgstr "Cập nhật"
+
+msgid "visitor_token"
+msgstr "Token"
+
+msgid "visitor_search_history"
+msgstr "Lịch sử tìm kiếm"
+
+msgid "visitor_bookmarks"
+msgstr "Danh sách đánh dấu"
+
+msgid "visitor_favorites"
+msgstr "Danh sách yêu thích"
+
+msgid "visitor_settings"
+msgstr "Thiết lập"
+
+msgid "visitor_shipping"
+msgstr "Địa chỉ nhận hàng"
+
+msgid "visitor_bookmark_name"
+msgstr "Tên địa danh"
+
+msgid "visitor_setting_lang_code"
+msgstr "Ngôn ngữ hiển thị"
+
+msgid "visitor_setting_currency_code"
+msgstr "Đơn vị ngoại tệ"
+
+msgid "visitor_setting_payments"
+msgstr "Phương thức thanh toán"
+
+msgid "visitor_shipping_name"
+msgstr "Tên người nhận"
+
+msgid "visitor_shipping_address"
+msgstr "Địa chỉ"
+
+msgid "visitor_shipping_email"
+msgstr "Email"
+
+msgid "visitor_shipping_mobile"
+msgstr "Số điện thoại liên hệ"
+
+msgid "visitor_shipping_note"
+msgstr "Ghi chú"
+
+msgid "Male"
+msgstr "Nam"
+
+msgid "Female"
+msgstr "Nữ"
+
+# Visitor - END
+
+# /Prices/* - BEGIN
+msgid "price_title"
+msgstr "Danh sách các mức giá"
+# /Prices/* - END
+
+# Visitor - BEGIN
+msgid "price_object_type"
+msgstr "Loại object"
+
+msgid "price_content_provider_codes"
+msgstr "Mã nhà cung cấp nội dung"
+
+msgid "price_types"
+msgstr "Kiểu giá"
+
+msgid "price_types_name"
+msgstr "Tên"
+
+msgid "price_types_code"
+msgstr "Mã giá"
+
+msgid "price_types_min_qty"
+msgstr "Số lượng ít nhất"
+
+msgid "price_types_max_qty"
+msgstr "Số lượng nhiều nhất"
+
+msgid "price_types_order"
+msgstr "Thứ tự"
+
+msgid "price_types_description"
+msgstr "Mô tả"
+
+msgid "price_order"
+msgstr "Thứ tự"
+
+msgid "price_status"
+msgstr "Trạng thái"
+
+msgid "price_modified"
+msgstr "Cập nhật"
+
+msgid "add more type"
+msgstr "Thêm kiểu mới"
+
+msgid "add more stream"
+msgstr "Thêm Video"
+
+# Visitor - END
+
+# /Slogans/* - BEGIN
+msgid "slogan_title"
+msgstr "Danh sách ảnh slogan"
+# /Slogans/* - END
+
+# Slogans - BEGIN
+msgid "slogan_nav_title"
+msgstr "Slogan"
+
+msgid "slogan_name"
+msgstr "Tiêu đề"
+
+msgid "slogan_order"
+msgstr "Thứ tự"
+
+msgid "slogan_region"
+msgstr "Tỉnh/Thành phố"
+
+msgid "slogan_location"
+msgstr "Thông tin"
+
+msgid "slogan_user"
+msgstr "Người tạo"
+
+msgid "slogan_lang_code"
+msgstr "Mã ngôn ngữ"
+
+msgid "slogan_file_slogan"
+msgstr "Ảnh slogan"
+
+msgid "slogan_status"
+msgstr "Trạng thái"
+
+msgid "slogan_description"
+msgstr "Mô tả chi tiết"
+
+msgid "slogan_modified"
+msgstr "Cập nhật"
+
+# Slogans - END
+
+# Streaming - BEGIN
+msgid "streaming_file_path"
+msgstr "Đường dẫn file"
+
+msgid "streaming_duration"
+msgstr "Thời lượng (giây)"
+
+msgid "streaming_bitrate"
+msgstr "Chất lượng"
+
+msgid "streaming_resolution_w"
+msgstr "Độ phân giải W"
+
+msgid "streaming_resolution_h"
+msgstr "Độ phân giải H"
+
+msgid "streaming_poster"
+msgstr "Ảnh poster"
+
+msgid "streaming_save_title"
+msgstr "Khung nhập streaming"
+
+msgid "streaming_pannel_title"
+msgstr "Thêm mới streaming file"
+
+msgid "streaming_not_support_video"
+msgstr "Your browser does not support the video tag."
+
+msgid "streaming_not_support_audio"
+msgstr "Your browser does not support the audio tag."
+
+msgid "bitrate_low"
+msgstr "Thấp"
+
+msgid "bitrate_medium"
+msgstr "Trung bình"
+
+msgid "bitrate_high"
+msgstr "Cao"
+
+# Streaming - END
+
+# /UserGroupPermissions/* - BEGIN
+msgid "user_group_permission_title"
+msgstr "Danh sách quyền hạn"
+
+msgid "user_group_permission_nav_title"
+msgstr "Quyền hạn"
+
+msgid "user_group_permission_autogenerate_title"
+msgstr "Tạo lại quyền hạn"
+# /UserGroupPermissions/* - END
+
+# UserGroupPermission - BEGIN
+msgid "user_group_permission_name"
+msgstr "Tên"
+
+msgid "user_group_permission_code"
+msgstr "Mã code"
+
+msgid "user_group_permission_module"
+msgstr "Module"
+
+msgid "user_group_permission_description"
+msgstr "Mô tả"
+
+msgid "user_group_permission_order"
+msgstr "Thứ tự"
+
+# UserGroupPermission - END
+
+# ReportDailyAccessLogin - BEGIN
+msgid "report_daily_access_login_date"
+msgstr "Thời gian"
+
+msgid "report_daily_access_login_time"
+msgstr "(Ngày/giờ)"
+
+msgid "report_daily_access_wap"
+msgstr "Số lượt truy cập Wap"
+
+msgid "report_daily_access_web"
+msgstr "Số lượt truy cập Web"
+
+msgid "report_daily_access_ios"
+msgstr "Số lượt truy cập trên iOS"
+
+msgid "report_daily_access_android"
+msgstr "Số lượt truy cập trên Android"
+
+msgid "report_daily_login_ios"
+msgstr "Số lượt user login trên  iOS"
+
+msgid "report_daily_login_android"
+msgstr "Số lượt user login trên  Android"
+
+# ReportDailyAccessLogin - END
+
+# /ReportDailyAccessLogin/* - BEGIN
+msgid "report_nav_title"
+msgstr "Báo cáo"
+
+msgid "report_daily_access_login_title"
+msgstr "Báo cáo số lượt truy cập/login"
+
+msgid "report_daily_access_login_date"
+msgstr "Khoảng thời gian"
+
+# /ReportDailyAccessLogin/* - END
+
+
+# HoangNN: start QuestionGroup
+ 
+# /Category/*
+msgid "question_category_nav_title"
+msgstr "Danh mục Câu hỏi"
+
+msgid "question_group_nav_title"
+msgstr "Quản lý Câu hỏi"
+
+msgid "cat_title"
+msgstr "Danh mục Câu hỏi"
+
+msgid "cat_short_title"
+msgstr "Danh mục Câu hỏi"
+
+msgid "cat_name"
+msgstr "Tên danh mục"
+
+msgid "cat_code"
+msgstr "Mã danh mục"
+
+msgid "cat_description"
+msgstr "Mô tả"
+
+msgid "cat_status"
+msgstr "Trạng thái"
+
+# /Winner/*
+msgid "win_title"
+msgstr "Danh sách thuê bao trúng thưởng"
+
+msgid "win_nav_title"
+msgstr "Game quiz"
+
+msgid "nav_promotion"
+msgstr "Khuyến mại"
+
+msgid "win_short_title"
+msgstr "Giải thưởng"
+
+msgid "win_choose_daily_short_title"
+msgstr "Chọn thuê bao trúng giải ngày"
+
+msgid "win_choose_monthly_short_title"
+msgstr "Chọn thuê bao trúng giải tháng"
+
+msgid "win_phone"
+msgstr "Số thuê bao"
+
+msgid "win_date"
+msgstr "Ngày đạt giải"
+
+msgid "win_week"
+msgstr "Tuần đạt giải"
+
+msgid "win_month"
+msgstr "Tháng đạt giải"
+
+msgid "win_type"
+msgstr "Loại giải thưởng"
+
+msgid "win_score"
+msgstr "Tổng điểm"
+
+msgid "win_comment"
+msgstr "Ghi chú"
+
+msgid "win_user"
+msgstr "Người chơi"
+
+msgid "win_btn"
+msgstr "Trúng giải"
+
+msgid "win_of_day"
+msgstr "Giải ngày"
+
+msgid "win_of_week"
+msgstr "Giải tuần"
+
+msgid "win_of_month"
+msgstr "Giải tháng"
+
+msgid "win_of_other"
+msgstr "Giải khác"
+
+msgid "poi_dai_title"
+msgstr "Chọn thuê bao trúng giải ngày"
+
+msgid "poi_week_title"
+msgstr "Chọn thuê bao trúng giải tuần"
+
+msgid "poi_month_title"
+msgstr "Chọn thuê bao trúng giải tháng"
+
+msgid "poi_mon_title"
+msgstr "Chọn thuê bao trúng giải tháng"
+
+msgid "poi_dai_phone"
+msgstr "Số thuê bao"
+
+msgid "poi_dai_point"
+msgstr "Số điểm"
+
+msgid "poi_dai_point_time"
+msgstr "Tổng thời gian trả lời câu hỏi"
+
+msgid "poi_dai_score"
+msgstr "Số điểm"
+
+msgid "poi_dai_date"
+msgstr "Ngày xét trúng giải"
+
+msgid "poi_mon_date"
+msgstr "Tháng xét trúng giải"
+
+msgid "poi_week_date"
+msgstr "Tuần xét trúng giải"
+
+msgid "poi_year_date"
+msgstr "Năm"
+
+msgid "poi_dai_score_last_date"
+msgstr "Thời điểm trả lời đúng cuối cùng"
+
+msgid "poi_dai_status"
+msgstr "Trạng thái"
+
+msgid "win_status"
+msgstr "Trạng thái"
+
+# /DailyReport/*
+msgid "rpt_title"
+msgstr "Báo cáo dịch vụ"
+
+msgid "rpt_short_title"
+msgstr "Báo cáo dịch vụ"
+
+msgid "rpt_revenue_title"
+msgstr "Tổng hợp doanh thu chung"
+
+msgid "cp_rpt_revenue_title"
+msgstr "Tổng hợp doanh thu cho CP"
+
+msgid "dis_rpt_revenue_title"
+msgstr "Tổng hợp doanh thu cho Distributor"
+
+msgid "rpt_productivity_title"
+msgstr "Tổng hợp sản lượng chung"
+
+msgid "cp_rpt_productivity_title"
+msgstr "Tổng hợp sản lượng cho CP"
+
+msgid "dis_rpt_productivity_title"
+msgstr "Tổng hợp sản lượng cho Distributor"
+
+msgid "rpt_total_stats_title"
+msgstr "Tổng"
+
+msgid "rpt_range_stats_title"
+msgstr "Từ %s đến %s"
+
+msgid "rpt_date"
+msgstr "Ngày thống kê"
+
+msgid "rpt_active"
+msgstr "Thuê bao active"
+
+msgid "rpt_register"
+msgstr "Đăng ký mới"
+
+msgid "rpt_deactive"
+msgstr "Hủy trong ngày"
+
+msgid "rpt_self_deactive"
+msgstr "Thuê bao tự hủy"
+
+msgid "rpt_system_deactive"
+msgstr "Hệ thống hủy"
+
+msgid "rpt_buy_question"
+msgstr "Lượt mua câu hỏi"
+
+msgid "rpt_renew"
+msgstr "Gia hạn"
+
+msgid "rpt_renew_success"
+msgstr "Gia hạn thành công"
+
+msgid "rpt_renew_fail"
+msgstr "Gia hạn thất bại"
+
+msgid "rpt_channel"
+msgstr "Kênh đăng ký"
+
+msgid "rpt_package"
+msgstr "Gói dịch vụ"
+
+msgid "rpt_revenue"
+msgstr "Doanh thu trong ngày"
+
+msgid "rpt_cp_revenue"
+msgstr "Doanh thu của CP trong ngày"
+
+msgid "rpt_distributor_revenue"
+msgstr "Doanh thu của Provider trong ngày"
+
+msgid "rpt_real_revenue"
+msgstr "Doanh thu sau khi sharing"
+
+msgid "rpt_register_revenue"
+msgstr "Doanh thu đăng ký"
+
+msgid "rpt_renew_revenue"
+msgstr "Doanh thu gia hạn"
+
+msgid "rpt_buy_question_revenue"
+msgstr "Doanh thu mua câu hỏi"
+
+# /CPDailyReport/*
+msgid "cp_rpt_title"
+msgstr "Báo cáo dịch vụ cho CP"
+
+msgid "cp_rpt_short_title"
+msgstr "Báo cáo dịch vụ cho CP"
+
+msgid "cp_rpt_revenue_title"
+msgstr "Tổng hợp doanh thu cho CP"
+
+msgid "cp_rpt_revenue_short_title"
+msgstr "Tổng hợp doanh thu"
+
+msgid "cp_rpt_productivity_title"
+msgstr "Tổng hợp sản lượng cho CP"
+
+msgid "cp_rpt_productivity_short_title"
+msgstr "Tổng hợp sản lượng"
+
+# /DistributorDailyReport/*
+msgid "dis_rpt_title"
+msgstr "Báo cáo dịch vụ cho Distributor"
+
+msgid "dis_rpt_short_title"
+msgstr "Báo cáo dịch vụ cho Distributor"
+
+msgid "dis_rpt_revenue_title"
+msgstr "Tổng hợp doanh thu cho Distributor"
+
+msgid "dis_rpt_revenue_short_title"
+msgstr "Tổng hợp doanh thu"
+
+msgid "dis_rpt_productivity_title"
+msgstr "Tổng hợp sản lượng cho Distributor"
+
+msgid "dis_rpt_productivity_short_title"
+msgstr "Tổng hợp sản lượng"
+
+# /QuestionGroup/*
+msgid "qes_gro_title"
+msgstr "Quản lý bộ câu hỏi"
+
+msgid "qes_gro_index_title"
+msgstr "Danh sách bộ câu hỏi"
+
+msgid "qes_gro_add_title"
+msgstr "Thêm mới bộ câu hỏi"
+
+msgid "qes_gro_edit_title"
+msgstr "Chỉnh sửa bộ câu hỏi"
+
+msgid "qes_gro_top_title"
+msgstr "Thông tin chung"
+
+msgid "qes_no_title_prefix"
+msgstr "Câu hỏi thứ"
+
+msgid "qes_top_title"
+msgstr "Danh sách các câu hỏi"
+
+msgid "qes_gro_name"
+msgstr "Tên của bộ câu hỏi"
+
+msgid "qes_gro_verbose_name"
+msgstr "Tên đầy đủ của bộ câu hỏi"
+
+msgid "qes_gro_description"
+msgstr "Mô tả"
+
+msgid "qes_gro_cate_code"
+msgstr "Danh mục"
+
+msgid "qes_gro_content"
+msgstr "Nội dung câu hỏi"
+
+msgid "qes_gro_start_time"
+msgstr "Thời gian bắt đầu chơi"
+
+msgid "qes_gro_status"
+msgstr "Trạng thái"
+
+msgid "qes_gro_cp"
+msgstr "Nhà cung cấp nội dung"
+
+msgid "qes_gro_cp_sharing"
+msgstr "Tỉ lệ chia sẻ cho CP"
+
+msgid "qes_content"
+msgstr "Nội dung"
+
+msgid "qes_content_unsigned"
+msgstr "Nội dung không dấu"
+
+msgid "qes_answer_time"
+msgstr "Thời gian trả lời (giây)"
+
+msgid "qes_answer"
+msgstr "Câu trả lời đúng"
+
+msgid "qes_score"
+msgstr "Số điểm"
+
+msgid "qes_gro_import_title"
+msgstr "Import bộ câu hỏi"
+
+msgid "qes_gro_import_short_title"
+msgstr "Import"
+
+msgid "qes_gro_cp_name"
+msgstr "Nhà cung cấp nội dung"
+
+msgid "qes_gro_total"
+msgstr "Tổng số bộ câu hỏi"
+
+# /DailyReport/*
+msgid "daily_report_title"
+msgstr "Tổng hợp sản lượng chung"
+
+msgid "daily_general_report_title"
+msgstr "Tổng hợp doanh thu chung"
+
+msgid "Sum"
+msgstr "<b>Tổng</b>"
+
+msgid "Sum_Download"
+msgstr "Tổng"
+
+msgid "report_register_revenue"
+msgstr "Doanh thu đăng ký"
+
+msgid "report_renew_revenue"
+msgstr "Doanh thu gia hạn"
+
+msgid "report_buy_question_revenue"
+msgstr "Doanh thu mua câu hỏi"
+
+msgid "report_real_revenue"
+msgstr "Doanh thu sau chia sẻ"
+
+msgid "channel"
+msgstr "Kênh đăng ký"
+
+msgid "date_start"
+msgstr "Từ ngày"
+
+msgid "date_end"
+msgstr "Đến ngày"
+
+msgid "service_code"
+msgstr "Gói dịch vụ"
+
+msgid "report_date"
+msgstr "Ngày thống kê"
+
+msgid "report_renew"
+msgstr "Lượt gia hạn"
+
+msgid "report_renew_success"
+msgstr "Lượt gia hạn thành công"
+
+msgid "report_renew_rate"
+msgstr "Tỷ lệ gia hạn (%)"
+
+msgid "report_active"
+msgstr "Lượt thuê bao active"
+
+msgid "report_register"
+msgstr "Lượt đăng ký mới"
+
+msgid "report_buy_question"
+msgstr "Lượt mua câu hỏi"
+
+msgid "report_day_deactive"
+msgstr "Lượt hủy trong ngày"
+
+msgid "report_self_deactive"
+msgstr "Lượt thuê bao tự hủy"
+
+msgid "report_system_deactive"
+msgstr "Lượt hệ thống tự hủy"
+
+msgid "report_distributor"
+msgstr "Nhà phân phối"
+
+msgid "report_distribution_channels"
+msgstr "Kênh phân phối"
+
+msgid "export_title"
+msgstr "Kết xuất dữ liệu"
+
+
+# /Player/*
+msgid "player_title"
+msgstr "Quản lý thuê bao"
+
+msgid "black_list_title"
+msgstr "Thuê bao bị chặn"
+
+msgid "register_deactive_title"
+msgstr "Đăng ký, hủy theo file"
+
+msgid "file_black_list_title"
+msgstr "Xử lý theo file"
+
+msgid "csv_import_list_title"
+msgstr "Lịch sử xử lý file"
+
+msgid "export_register_title"
+msgstr "Danh sách thuê bao đăng ký"
+
+msgid "export_active_title"
+msgstr "Danh sách thuê bao active"
+
+msgid "export_abort_title"
+msgstr "Danh sách thuê bao hủy"
+
+msgid "player_index_title"
+msgstr "Danh sách thuê bao"
+
+msgid "player_find_title"
+msgstr "Tra cứu thuê bao"
+
+msgid "player_detail_title"
+msgstr "Thông tin thuê bao"
+
+msgid "player_history_title"
+msgstr "Lịch sử dịch vụ"
+
+msgid "player_phone_tab"
+msgstr "Thông tin thuê bao"
+
+msgid "player_score_tab"
+msgstr "Lịch sử điểm số"
+
+msgid "player_charge_tab"
+msgstr "Lịch sử trừ cước"
+
+msgid "player_charge_tab"
+msgstr "Lịch sử trừ cước"
+
+msgid "player_mo_tab"
+msgstr "Lịch sử MO"
+
+msgid "player_mt_tab"
+msgstr "Lịch sử MT"
+
+msgid "player_phone"
+msgstr "Số thuê bao"
+
+msgid "player_score"
+msgstr "Tổng điểm"
+
+msgid "player_score_day"
+msgstr "Điểm ngày"
+
+msgid "player_score_week"
+msgstr "Điểm tuần"
+
+msgid "player_score_month"
+msgstr "Điểm tháng"
+
+msgid "player_current_question"
+msgstr "Câu hỏi hiện tại"
+
+msgid "player_current_answer"
+msgstr "Đáp án đúng"
+
+msgid "player_count_group_aday"
+msgstr "Số bộ câu hỏi trong ngày"
+
+msgid "player_status"
+msgstr "Trạng thái"
+
+msgid "player_distributor"
+msgstr "Nhà phân phối"
+
+msgid "player_comment"
+msgstr "Ghi chú"
+
+msgid "player_registered_at"
+msgstr "Thời điểm đăng ký"
+
+msgid "player_first_registered_at"
+msgstr "Thời điểm đăng ký đầu tiên"
+
+msgid "player_last_action_at"
+msgstr "Thời điểm thao tác cuối cùng"
+
+msgid "player_play_status"
+msgstr "Trạng thái chơi"
+
+msgid "player_num_questions"
+msgstr "Số bộ còn để chơi tiếp"
+
+msgid "player_package"
+msgstr "Gói dịch vụ"
+
+msgid "channel"
+msgstr "Kênh đăng ký"
+
+msgid "player_channel"
+msgstr "Kênh đang chơi"
+
+msgid "player_total_register"
+msgstr "Tổng số TB ĐK mới"
+
+msgid "player_total_self_deactive"
+msgstr "Tổng số TB tự hủy"
+
+msgid "player_total_active"
+msgstr "Tổng số TB active"
+
+msgid "player_nav_title"
+msgstr "Người chơi GameQuiz"
+
+msgid "player_stats_title"
+msgstr "Thống kê thuê bao"
+
+msgid "score_renew"
+msgstr "Điểm cộng khi gia hạn"
+
+msgid "score_answer"
+msgstr "Điểm trả lời câu hỏi đúng"
+
+msgid "score_other"
+msgstr "Điểm khác"
+
+msgid "score_register"
+msgstr "Điểm cộng khi đăng ký"
+
+msgid "score_buy_question"
+msgstr "Điểm cộng khi mua câu hỏi"
+
+msgid "score_phone"
+msgstr "Số thuê bao"
+
+msgid "score_delta"
+msgstr "Điểm phát sinh"
+
+msgid "score_score"
+msgstr "Điểm cộng"
+
+msgid "score_action"
+msgstr "Lí do"
+
+msgid "score_comment"
+msgstr "Ghi chú"
+
+msgid "score_status"
+msgstr "Trạng thái"
+
+msgid "score_status_fail"
+msgstr "Xóa"
+
+msgid "score_status_success"
+msgstr "Công khai"
+
+msgid "edit_score_his"
+msgstr "Chỉnh sửa lịch sử điểm số"
+
+msgid "score_edit_success"
+msgstr "Lưu thành công"
+
+msgid "score_edit_error"
+msgstr "Lưu thất bại"
+
+msgid "add_score_his"
+msgstr "Cộng điểm"
+
+msgid "score_channel"
+msgstr "Kênh"
+
+msgid "score_date"
+msgstr "Thời gian tính điểm"
+
+msgid "score_title"
+msgstr "Lịch sử điểm số"
+
+msgid "score_time"
+msgstr "Thời gian trả lời"
+
+msgid "charge_phone"
+msgstr "Số thuê bao"
+
+msgid "charge_amount"
+msgstr "Số tiền"
+
+msgid "charge_cp"
+msgstr "Nhà cung cấp"
+
+msgid "charge_distributor"
+msgstr "Nhà phân phối"
+
+msgid "charge_cp_sharing"
+msgstr "Tỷ lệ chia sẻ"
+
+msgid "charge_cp_sharing"
+msgstr "Tỷ lệ chia sẻ cho CP"
+
+msgid "charge_distributor_sharing"
+msgstr "Tỷ lệ chia sẻ cho Distributor"
+
+msgid "charge_date"
+msgstr "Thời gian trừ tiền"
+
+msgid "charge_status"
+msgstr "Trạng thái"
+
+msgid "charge_action"
+msgstr "Lí do"
+
+msgid "charge_registered"
+msgstr "Đăng ký"
+
+msgid "charge_renew"
+msgstr "Gia hạn"
+
+msgid "charge_unregistered"
+msgstr "Hủy"
+
+msgid "charge_unregistered_by_cms"
+msgstr "Hủy từ cms"
+
+msgid "charge_guide"
+msgstr "Hướng dẫn"
+
+msgid "charge_password"
+msgstr "Mật khẩu"
+
+msgid "charge_winner_daily_by_cms"
+msgstr "Trúng giải ngày"
+
+msgid "charge_winner_monthly_by_cms"
+msgstr "Trúng giải tháng"
+
+msgid "charge_buy_question"
+msgstr "Mua câu hỏi"
+
+msgid "charge_answer_question"
+msgstr "Trả lời câu hỏi"
+
+msgid "charge_password"
+msgstr "Mật khẩu"
+
+msgid "charge_unknown"
+msgstr "Khác"
+
+msgid "charge_view_score"
+msgstr "Tra cứu điểm"
+
+msgid "charge_get_question"
+msgstr "Lấy lại câu hỏi"
+
+msgid "mo_service"
+msgstr "Đầu số"
+
+msgid "mo_phone"
+msgstr "Số thuê bao"
+
+msgid "mo_receive_date"
+msgstr "Thời gian nhận"
+
+msgid "mo_date"
+msgstr "Thời gian xử lý"
+
+msgid "mo_amount"
+msgstr "Cước phí"
+
+msgid "mo_content"
+msgstr "MO"
+
+msgid "mo_action"
+msgstr "Tác vụ"
+
+msgid "mo_channel"
+msgstr "Kênh ĐK"
+
+msgid "mo_mt"
+msgstr "MT"
+
+msgid "mo_status"
+msgstr "Trạng thái"
+
+msgid "mt_phone"
+msgstr "Số thuê bao"
+
+msgid "mt_mo"
+msgstr "Id của mo"
+
+msgid "mt_date"
+msgstr "Thời gian gửi"
+
+msgid "mt_content"
+msgstr "Nội dung"
+
+msgid "mt_action"
+msgstr "Loại"
+
+msgid "mt_status"
+msgstr "Trạng thái"
+
+msgid "mt_service"
+msgstr "Đầu số"
+
+msgid "score_his_btn"
+msgstr "Lịch sử điểm"
+
+msgid "cancel_player_btn"
+msgstr "Hủy thuê bao"
+
+msgid "auto_extend"
+msgstr "Tự động gia hạn"
+
+# SYS CONFIG
+msgid "status_active"
+msgstr "Kích hoạt"
+
+msgid "status_inactive"
+msgstr "Tạm ngừng kích hoạt"
+
+msgid "status_ready"
+msgstr "Đã sẵn sàng"
+
+msgid "status_not_ready"
+msgstr "Chưa sẵn sàng"
+
+msgid "status_played"
+msgstr "Đã chơi"
+
+msgid "status_not_register"
+msgstr "Hủy"
+
+msgid "status_registered"
+msgstr "Hoạt động"
+
+msgid "status_pending_not_charged"
+msgstr "Nợ cước"
+
+msgid "status_pending_locked"
+msgstr "Tạm dừng"
+
+msgid "status_unregistered"
+msgstr "Hủy"
+
+msgid "status_stop_play"
+msgstr "Đã dừng"
+
+msgid "status_playing"
+msgstr "Đang chơi"
+
+msgid "status_charge_fail"
+msgstr "Không thành công"
+
+msgid "status_charge_success"
+msgstr "Thành công"
+
+msgid "status_mo_fail"
+msgstr "Không thành công"
+
+msgid "status_mo_success"
+msgstr "Thành công"
+
+msgid "status_buy_question"
+msgstr "Mua câu hỏi"
+
+msgid "status_answer_question"
+msgstr "Trả lời câu hỏi"
+
+msgid "status_unknown"
+msgstr "Khác"
+
+msgid "status_not_send"
+msgstr "Chưa gửi"
+
+msgid "status_sent"
+msgstr "Gửi thành công"
+
+msgid "no_result"
+msgstr "Không có dữ liệu"
+
+msgid "no"
+msgstr "STT"
+
+msgid "operation"
+msgstr "Thao tác"
+
+msgid "invalid_data"
+msgstr "Lỗi, dữ liệu không hợp lệ"
+
+msgid "confirm_delete"
+msgstr "Bạn có chắc chắn muốn xóa không?"
+
+msgid "gameshow_title"
+msgstr "Loại gameshow"
+
+msgid "created_at"
+msgstr "Ngày tạo"
+
+msgid "updated_at"
+msgstr "Ngày cập nhật"
+
+msgid "added_by"
+msgstr "Được cung cấp bởi"
+
+msgid "created_by"
+msgstr "Được tạo bởi"
+
+msgid "unknown"
+msgstr "Unknown"
+
+msgid "from_date"
+msgstr "Từ ngày"
+
+msgid "to_date"
+msgstr "Đến ngày"
+
+# Model validate message
+msgid "not_empty_validate"
+msgstr "Trường dữ liệu bắt buộc"
+
+msgid "is_unique_validate"
+msgstr "Trường dữ liệu phải là duy nhất"
+
+msgid "not_white_space_validate"
+msgstr "Trường dữ liệu không được chứa khoảng trắng"
+
+msgid "not_ascii_letter_validate"
+msgstr "Trường dữ liệu chứa kí đặc biệt"
+
+msgid "file_upload_exception"
+msgstr "Lỗi không upload được file"
+
+msgid "file_upload_error"
+msgstr "Không tồn tại file để upload"
+
+msgid "config_not_found"
+msgstr "Không tìm thấy cấu hình gameshow"
+
+msgid "file_import_empty"
+msgstr "File %s dùng để import, không chứa dữ liệu hợp lệ"
+
+msgid "file_import_success"
+msgstr "File %s đã được import thành công"
+
+msgid "file_import_error"
+msgstr "Lỗi, File %s không được import thành công"
+
+msgid "file_import_confirm"
+msgstr "Bạn có chắc chắn muốn import file"
+
+msgid "file_import_invalid_format_error"
+msgstr "Lỗi, dòng thứ %s trong File %s không nhập đủ nội dung vào các cột bắt buộc"
+
+msgid "file_import_invalid_letter_error"
+msgstr "Lỗi, nội dung tại dòng thứ %s, cột thứ %s trong File %s có chứa kí tự đặc biệt, hãy sửa thành kí tự ASCII"
+
+msgid "password_confirm_invalid"
+msgstr "Mật khẩu không khớp"
+
+msgid "log_out"
+msgstr "Đăng xuất"
+
+msgid "log_in"
+msgstr "Đăng nhập"
+
+msgid "invalid_username_or_password"
+msgstr "Không nhập đúng tài khoản hoặc mật khẩu, hãy đăng nhập lại"
+
+msgid "set_winner_success"
+msgstr "Đã thiết lập thuê bao trúng giải thành công"
+
+msgid "set_winner_error"
+msgstr "Lỗi, chưa thiết lập được thuê bao trúng giải thành công"
+
+msgid "remove_winner_confirm"
+msgstr "Bạn có chắc chắn muốn loại bỏ thuê bao hiện tại khỏi danh sách trúng giải?"
+
+msgid "remove_winner_error_message"
+msgstr "Lỗi, Chưa loại bỏ thành công khỏi danh sách trúng giải"
+
+msgid "cancel_player_confirm"
+msgstr "Bạn có chắc chắn muốn hủy dịch vụ cho thuê bao hiện tại?"
+
+msgid "register_player_confirm"
+msgstr "Bạn có chắc chắn muốn đăng ký dịch vụ cho thuê bao hiện tại?"
+
+msgid "resend_mt_confirm"
+msgstr "Bạn có chắc chắn muốn gửi lại MT này?"
+
+msgid "cancel_player_success"
+msgstr "Đã hủy dịch vụ thành công"
+
+msgid "cancel_player_error"
+msgstr "Lỗi, Chưa hủy dịch vụ thành công"
+
+msgid "send_mt_to_winner_success"
+msgstr "Gửi mt tới thuê bao %s đạt giải thành công"
+
+msgid "send_mt_to_winner_error"
+msgstr "Lỗi, gửi mt tới thuê bao %s đạt giải không thành công"
+
+msgid "send_mt_to_winner_again"
+msgstr "Mt đã được gửi tới thuê bao đạt giải, bạn có muốn gửi lại không?"
+
+msgid "send_mt_to_winner_confirm_1"
+msgstr "Bạn có chắc chắn muốn gửi mt thông báo đạt giải tới số thuê bao"
+
+msgid "send_mt_to_winner_confirm_2"
+msgstr "Có nội dung như sau: "
+
+# /Configuration/manage
+msgid "configuration_nav_title"
+msgstr "Quản lý cấu hình"
+
+msgid "config_title"
+msgstr "Quản lý cấu hình"
+
+msgid "config_title"
+msgstr "Quản lý cấu hình"
+
+msgid "panel_title_prefix"
+msgstr "Nhóm cấu hình cho"
+
+msgid "panel_title_prefix"
+msgstr "Nhóm cấu hình cho"
+
+msgid "panel_child_title"
+msgstr "Nhóm cấu hình"
+
+msgid "config_manage_exception"
+msgstr "Dữ liệu đầu vào không hợp lệ"
+
+# /Traffic Introductions/* - BEGIN
+msgid "intro_title"
+msgstr "Cảnh báo giao thông"
+
+msgid "traffic_introduction_nav_title"
+msgstr "Cảnh báo giao thông"
+# /Traffic Introductions/* - END
+
+# Traffic Introductions - BEGIN
+msgid "intro_name"
+msgstr "Tiêu đề"
+
+msgid "intro_description"
+msgstr "Mô tả"
+
+msgid "intro_user"
+msgstr "Người tạo"
+
+msgid "intro_order"
+msgstr "Thứ tự"
+
+msgid "intro_created"
+msgstr "Ngày tạo"
+
+msgid "intro_modified"
+msgstr "Cập nhật"
+
+msgid "intro_user"
+msgstr "Người tạo"
+
+msgid "intro_action"
+msgstr "Thao tác"
+
+msgid "intro_status"
+msgstr "Trạng thái"
+
+msgid "intro_status_waiting"
+msgstr "Đang chờ xét duyệt"
+
+msgid "intro_status_deny"
+msgstr "Không được phê duyệt"
+
+msgid "intro_status_no_display"
+msgstr "Không hiển thị tạm thời"
+
+msgid "intro_status_public"
+msgstr "Công khai"
+
+msgid "distribution_channel_code1"
+msgstr "Kênh phân phối 1"
+
+msgid "distribution_channel_code2"
+msgstr "Kênh phân phối 2"
+
+# Traffic Introductions - END
+
+# /Traffic Signs/* - BEGIN
+msgid "traffic_sign_title"
+msgstr "Biển báo giao thông"
+
+msgid "traffic_sign_nav_title"
+msgstr "Biển báo giao thông"
+# /Traffic Signs/* - END
+# Traffic Signs - BEGIN
+
+msgid "traffic_sign_name"
+msgstr "Tên biển báo"
+
+msgid "traffic_sign_code"
+msgstr "Mã"
+
+msgid "traffic_sign_description"
+msgstr "Mô tả"
+
+msgid "traffic_sign_order"
+msgstr "Thứ tự"
+
+msgid "traffic_sign_modified"
+msgstr "Cập nhật"
+
+msgid "traffic_sign_user"
+msgstr "Người tạo"
+
+msgid "traffic_sign_status"
+msgstr "Trạng thái"
+
+msgid "traffic_sign_thumb"
+msgstr "Thumbnail"
+
+# Traffic Signs - END
+
+# /Traffic Libraries/* - BEGIN
+msgid "traffic_library_title"
+msgstr "Thư viện giao thông"
+
+msgid "traffic_library_nav_title"
+msgstr "Thư viện giao thông"
+# /Traffic Libraries/* - END
+# Traffic Libraries - BEGIN
+
+msgid "traffic_library_name"
+msgstr "Tên thư viện"
+
+msgid "traffic_library_description"
+msgstr "Mô tả"
+
+msgid "traffic_library_order"
+msgstr "Thứ tự"
+
+msgid "traffic_library_modified"
+msgstr "Cập nhật"
+
+msgid "traffic_library_user"
+msgstr "Người tạo"
+
+msgid "traffic_library_status"
+msgstr "Trạng thái"
+
+msgid "traffic_library_created"
+msgstr "Ngày tạo"
+
+msgid "traffic_library_modified"
+msgstr "Cập nhật"
+
+msgid "traffic_library_action"
+msgstr "Thao tác"
+
+msgid "traffic_library_release_date"
+msgstr "Ngày công bố"
+
+# Traffic Libraries - END
+
+msgid "status_waiting"
+msgstr "Đang chờ xét duyệt"
+
+msgid "status_deny"
+msgstr "Không được phê duyệt"
+
+msgid "status_no_display"
+msgstr "Không hiển thị tạm thời"
+
+msgid "status_public"
+msgstr "Công khai"
+
+# Traffic visitor feedback
+
+msgid "traffic_visitor_feedback_title"
+msgstr "Phản ánh giao thông"
+
+msgid "traffic_visitor_feedback_name"
+msgstr "Tên"
+
+msgid "traffic_visitor_occurred_date"
+msgstr "Ngày diễn ra"
+
+# Environment visitor feedback
+msgid "environment_visitor_feedback_title"
+msgstr "Phản ánh môi trường"
+
+# Traffic visitor ideas
+msgid "traffic_visitor_idea_title"
+msgstr "Ý tưởng giao thông"
+
+# Environment visitor ideas
+msgid "environment_visitor_idea_title"
+msgstr "Ý tưởng môi trường"
+
+# Environment visitor feedback media
+msgid "environment_visitor_feedback_media_title"
+msgstr "Ảnh đính kèm phản ánh môi trường"
+
+msgid "lang_code"
+msgstr "Ngôn ngữ"
+
+# Vod Assets
+msgid "vod_assets_title"
+msgstr "Âm nhạc dân gian"
+
+# Vod episode
+msgid "vod_episodes_title"
+msgstr "Clip âm nhạc dân gian"
+
+msgid "add_new"
+msgstr "Thêm mới"
+
+msgid "cloneRecord"
+msgstr "Sao chép"
+
+msgid "clone_action_title"
+msgstr "Sao chép"
+
+msgid "edit"
+msgstr "Sửa"
+
+msgid "Object type"
+msgstr "Chọn loại"
+
+msgid "Object"
+msgstr "Lựa chọn"
+
+msgid "coupon_discount"
+msgstr "Phần trăm giảm giá"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "coupon_edit"
+msgstr "Sửa mã giảm giá"
+
+msgid "coupon_add"
+msgstr "Thêm mã giảm giá"
+
+msgid "Reports"
+msgstr "Báo cáo"
+
+msgid "Game quiz_Daily reports"
+msgstr "Game quiz_Sản lượng"
+
+msgid "Game quiz_Revenues"
+msgstr "Game quiz_Doanh thu"
+
+msgid "Total record: {:count}"
+msgstr "Tổng số bản ghi: {:count}"
+
+# Tracking reports - BEGIN
+
+msgid "tracking_report_title"
+msgstr "Báo cáo truy nhập ngày"
+
+msgid "subscriber_web_count"
+msgstr "Tổng số thuê bao truy cập website"
+
+msgid "access_wap_count"
+msgstr "Tổng lượt truy cập wapsite"
+
+msgid "buy_question_success"
+msgstr "Tổng số lượt tra cứu lẻ"
+
+msgid "incurred_charge_count"
+msgstr "Số thuê bao phát sinh cước"
+
+# Tracking reports - END
+
+# Traditional day reports - BEGIN
+
+msgid "traditional_report_title"
+msgstr "Báo cáo truyền thông"
+
+msgid "traditional_daily_title"
+msgstr "Báo cáo truyền thông ngày"
+
+msgid "traditional_weekly_title"
+msgstr "Báo cáo truyền thông tuần"
+
+msgid "traditional_monthly_title"
+msgstr "Báo cáo truyền thông tháng"
+
+msgid "traditional_quarterly_title"
+msgstr "Báo cáo truyền thông quý"
+
+msgid "traditional_yearly_title"
+msgstr "Báo cáo truyền thông năm"
+
+msgid "traditional_day"
+msgstr "Ngày"
+
+msgid "traditional_referer_type"
+msgstr "Loại Referer"
+
+msgid "traditional_register_channel"
+msgstr "Kênh đăng ký"
+
+msgid "traditional_register"
+msgstr "Lượt gửi/click"
+
+msgid "traditional_register_success"
+msgstr "Đăng ký"
+
+# Traditional day reports - END
+
+msgid "daily_kpi_report_title"
+msgstr "Báo cáo doanh thu theo ngày"
+
+msgid "General"
+msgstr "Tổng hợp"
+
+msgid "Package day"
+msgstr "Gói ngày"
+
+msgid "Package week"
+msgstr "Gói tuần"
+
+msgid "daily_subscriber_report_title"
+msgstr "Báo cáo thông tin thuê bao theo ngày"
+
+msgid "weekly_kpi_report_title"
+msgstr "Báo cáo doanh thu theo tuần"
+
+msgid "weekly_subscriber_report_title"
+msgstr "Báo cáo thông tin thuê bao theo tuần"
+
+msgid "quarterly_kpi_report_title"
+msgstr "Báo cáo doanh thu theo quý"
+
+msgid "quarterly_subscriber_report_title"
+msgstr "Báo cáo thông tin thuê bao theo quý"
+
+msgid "monthly_kpi_report_title"
+msgstr "Báo cáo doanh thu theo tháng"
+
+msgid "monthly_subscriber_report_title"
+msgstr "Báo cáo thông tin thuê bao theo tháng"
+
+msgid "yearly_kpi_report_title"
+msgstr "Báo cáo doanh thu theo năm"
+
+msgid "yearly_subscriber_report_title"
+msgstr "Báo cáo thông tin thuê bao theo năm"
+
+msgid "register_success"
+msgstr "Thuê bao mới"
+
+msgid "action_subscriber"
+msgstr "Thuê bao sử dụng"
+
+msgid "stop_subscriber"
+msgstr "Thuê bao không sử dụng"
+
+msgid "psc_subscriber"
+msgstr "Thuê bao phát sinh cước"
+
+msgid "renew_success"
+msgstr "Thuê bao gia hạn"
+
+msgid "deactive"
+msgstr "Thuê bao hủy"
+
+msgid "active"
+msgstr "Tổng thuê bao active"
+
+msgid "Year"
+msgstr "Năm"
+
+msgid "Month"
+msgstr "Tháng"
+
+msgid "register_his_title"
+msgstr "Lịch sử đăng ký, hủy"
+
+msgid "sms_his_title"
+msgstr "Lịch sử SMS"
+
+msgid "use_his_title"
+msgstr "Lịch sử sử dụng"
+
+msgid "charge_his_title"
+msgstr "Lịch sử trừ cước"
+
+msgid "action_his_title"
+msgstr "Lịch sử tác động"
+
+msgid "his_action"
+msgstr "Hành động"
+
+msgid "his_time"
+msgstr "Thời gian"
+
+msgid "package"
+msgstr "Gói cước"
+
+msgid "mo_play"
+msgstr "Chơi"
+
+msgid "mo_give_up"
+msgstr "Bỏ qua"
+
+msgid "mo_intro"
+msgstr "Hướng dẫn"
+
+msgid "mo_view_result"
+msgstr "Xem kết quả"
+
+msgid "mo_change_channel"
+msgstr "Chuyển kênh"
+
+msgid "mo_other"
+msgstr "Khác"
+
+msgid "mo_view_point"
+msgstr "Xem điểm"
+
+msgid "action"
+msgstr "Hành động"
+
+# /DailyKpiInteraction/*
+msgid "daily_kpi_interaction_date_range"
+msgstr "Khoảng thời gian"
+
+msgid "daily_kpi_interaction_date"
+msgstr "Ngày"
+
+msgid "daily_kpi_interaction_total"
+msgstr "Tổng số lượt"
+
+msgid "daily_kpi_interaction_success"
+msgstr "Số lượt thành công"
+
+msgid "daily_kpi_interaction_fail"
+msgstr "Số lượt thất bại"
+
+msgid "daily_kpi_interaction_percent"
+msgstr "Tỷ lệ(%)"
+# /DailyKpiInteraction/* - END
+
+# /DailyKpiInteraction/msisdn - BEGIN
+msgid "daily_kpi_interaction_msisdn_title"
+msgstr "Báo cáo tỷ lệ nhận diện thuê bao"
+# /DailyKpiInteraction/msisdn - END
+
+# /DailyKpiInteraction/charge - BEGIN
+msgid "daily_kpi_interaction_charge_title"
+msgstr "Báo cáo tỷ lệ charge cước"
+# /DailyKpiInteraction/charge - END
+
+# /DailyKpiInteraction/mt - BEGIN
+msgid "daily_kpi_interaction_mt_title"
+msgstr "Báo cáo tỷ lệ gửi mt"
+# /DailyKpiInteraction/mt - END
+
+msgid "regions"
+msgstr "Vùng miền"
+
+msgid "regions_list"
+msgstr "Danh sách vùng miền"
+
+# /NumberResults/add - BEGIN
+msgid "number_result_title"
+msgstr "Kết quả xổ số"
+
+msgid "number_result_add_title"
+msgstr "Nhập kết quả xổ số"
+
+msgid "number_result_region_code"
+msgstr "Tỉnh"
+
+msgid "number_result_date"
+msgstr "Ngày quay"
+
+msgid "number_result_modified"
+msgstr "Cập nhật"
+
+msgid "sure"
+msgstr "Bạn có chắc chắn"
+
+msgid "detail"
+msgstr "Chi tiết"
+
+msgid "number_result_index_title"
+msgstr "Tìm kiếm"
+
+msgid "leng_not_valid"
+msgstr "chưa đạt độ dài quy định. Vui lòng nhập số có độ dài"
+# /NumberResults/add - END
+
+msgid "charge_success"
+msgstr "Thành công"
+
+msgid "charge_fail"
+msgstr "Không thành công"
+
+msgid "charge_time"
+msgstr "Thời gian giao dịch"
+
+msgid "charge_type"
+msgstr "Loại giao dịch"
+
+msgid "charge_package"
+msgstr "Gói cước"
+
+msgid "charge_channel"
+msgstr "Kênh"
+
+msgid "charge_fee"
+msgstr "Cước phí"
+
+msgid "charge_total"
+msgstr "Tổng cộng cước phí"
+
+msgid "Info"
+msgstr "Thông tin"
+
+msgid "MO-MT history"
+msgstr "Lịch sử MO-MT"
+
+msgid "Charge history"
+msgstr "Lịch sử charge cước"
+
+msgid "Action history"
+msgstr "Lịch sử tương tác"
+
+msgid "Register - unRegister"
+msgstr "Đăng ký - Hủy DV"
+
+msgid "Send SMS"
+msgstr "Gửi MT cho Thuê bao"
+
+msgid "Package"
+msgstr "Gói cước"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Register time"
+msgstr "Thời gian đăng ký"
+
+msgid "unRegister time"
+msgstr "Thời gian hủy"
+
+msgid "Register channel"
+msgstr "Kênh đăng ký"
+
+msgid "unRegister channel"
+msgstr "Kênh hủy"
+
+msgid "mo_time_received"
+msgstr "Thời gian nhận MO"
+
+msgid "mo_fee"
+msgstr "Cước phí MO"
+
+msgid "mo_received_number"
+msgstr "Đầu số nhận MO"
+
+msgid "mt_sent_time"
+msgstr "Thời gian gửi MT"
+
+msgid "mt_package"
+msgstr "Gói cước"
+
+msgid "mo_fail"
+msgstr "Không thành công"
+
+msgid "mo_success"
+msgstr "Thành công"
+
+msgid "date_register"
+msgstr "Ngày đăng ký"
+
+msgid "date_unregister"
+msgstr "Ngày hủy"
+
+msgid "subscribers_title"
+msgstr "Danh sách thuê bao"
+
+msgid "subscribers_info_title"
+msgstr "Thông tin thuê bao"
+
+msgid "tracking_start"
+msgstr "Thời gian bắt đầu"
+
+msgid "tracking_end"
+msgstr "Thời gian kết thúc"
+
+msgid "tracking_package"
+msgstr "Gói cước"
+
+msgid "tracking_action"
+msgstr "Thao tác KH"
+
+msgid "tracking_response"
+msgstr "Hệ thống phản hồi"
+
+msgid "tracking_channel"
+msgstr "Kênh"
+
+msgid "tracking_number"
+msgstr "Đầu số DV"
+
+# /Configuration/manage
+msgid "configuration_nav_title"
+msgstr "Quản lý cấu hình"
+
+msgid "config_title"
+msgstr "Quản lý cấu hình"
+
+msgid "config_title"
+msgstr "Quản lý cấu hình"
+
+msgid "panel_title_prefix"
+msgstr "Nhóm cấu hình cho"
+
+msgid "panel_title_prefix"
+msgstr "Nhóm cấu hình cho"
+
+msgid "panel_child_title"
+msgstr "Nhóm cấu hình"
+
+msgid "config_manage_exception"
+msgstr "Dữ liệu đầu vào không hợp lệ"
+

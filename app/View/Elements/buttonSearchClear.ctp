@@ -1,0 +1,2 @@
+<button class="btn btn-primary"><i class="fa fa-search"></i> <span><?php echo __('search_btn') ?></span> </button>
+<button class="btn btn-bitbucket btn-clear"><i class="fa fa-refresh"></i> <span><?php echo __('clear_btn') ?></span> </button>

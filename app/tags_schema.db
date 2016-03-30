@@ -1,0 +1,36 @@
+/*
+Navicat SQLite Data Transfer
+
+Source Server         : tags_halovietnam_cms
+Source Server Version : 30714
+Source Host           : :0
+
+Target Server Type    : SQLite
+Target Server Version : 30714
+File Encoding         : 65001
+
+Date: 2015-07-02 17:24:47
+*/
+
+PRAGMA foreign_keys = OFF;
+
+-- ----------------------------
+-- Table structure for tags
+-- ----------------------------
+DROP TABLE IF EXISTS "main"."tags";
+CREATE TABLE "tags" (
+"id"  TEXT NOT NULL,
+"name"  TEXT(100) NOT NULL,
+"type"  TEXT(10) NOT NULL,
+"lang_code"  TEXT(3),
+"modified"  INTEGER,
+PRIMARY KEY ("id")
+);
+
+-- ----------------------------
+-- Indexes structure for table tags
+-- ----------------------------
+CREATE INDEX "main"."name_index"
+ON "tags" ("name" ASC);
+CREATE INDEX "main"."name_type_index"
+ON "tags" ("name" ASC, "type" ASC);
